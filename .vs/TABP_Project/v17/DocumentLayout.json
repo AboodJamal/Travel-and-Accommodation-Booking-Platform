@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TABP_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C298BF2-B14F-4098-AF06-FF161324245C}|TABP.Tests\\TABP.Tests.csproj|c:\\tabp_project\\tabp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C298BF2-B14F-4098-AF06-FF161324245C}|TABP.Tests\\TABP.Tests.csproj|solutionrelative:tabp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD5943C-0331-4884-9ECD-694C57337D71}|TABP.Domain\\TABP.Domain.csproj|c:\\tabp_project\\tabp.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD5943C-0331-4884-9ECD-694C57337D71}|TABP.Domain\\TABP.Domain.csproj|solutionrelative:tabp.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED26282-3C79-4923-95F1-013841061771}|TABP.Infrastructure\\TABP.Infrastructure.csproj|c:\\tabp_project\\tabp.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED26282-3C79-4923-95F1-013841061771}|TABP.Infrastructure\\TABP.Infrastructure.csproj|solutionrelative:tabp.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1868876116:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1972725675:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:350743133:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1337924956:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TABP.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "TABP.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:53:10.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Domain\\Program.cs",
+              "RelativeDocumentMoniker": "TABP.Domain\\Program.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Domain\\Program.cs",
+              "RelativeToolTip": "TABP.Domain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:51:02.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Infrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "TABP.Infrastructure\\Program.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Infrastructure\\Program.cs",
+              "RelativeToolTip": "TABP.Infrastructure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:49:34.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\Program.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\Program.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\Program.cs",
+              "RelativeToolTip": "TABP.Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:44:52.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

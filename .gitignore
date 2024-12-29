@@ -67,3 +67,11 @@ coverage/
 *.ide
 .idea/
 .vscode/
+
+
+TABP.API/obj/Debug/net8.0/TABP.API.AssemblyInfoInputs.cache
+        TABP.Application/obj/Debug/net8.0/TABP.Application.AssemblyInfoInputs.cache
+        TABP.Domain/obj/Debug/net8.0/TABP.Domain.AssemblyInfoInputs.cache
+        TABP.Infrastructure/obj/Debug/net8.0/TABP.Infrastructure.AssemblyInfo.cs
+        TABP.Infrastructure/obj/Debug/net8.0/TABP.Infrastructure.AssemblyInfoInputs.cache
+        TABP.Tests/obj/Debug/net8.0/TABP.Tests.AssemblyInfoInputs.cache

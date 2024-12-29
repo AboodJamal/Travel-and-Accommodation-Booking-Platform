@@ -3,6 +3,138 @@
   "WorkspaceRootPath": "C:\\TABP_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\userdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\userdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\userdtos\\usercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\userdtos\\usercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\roomdtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\roomdtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\roomdtos\\roomcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\roomdtos\\roomcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\roomdtos\\getroomsbyhoteliddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\roomdtos\\getroomsbyhoteliddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\roomdtos\\gethotelavailableroomsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\roomdtos\\gethotelavailableroomsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\roomcategoriesdtos\\roomtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\roomcategoriesdtos\\roomtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\roomcategoriesdtos\\roomcategorywithoutamenitiesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\roomcategoriesdtos\\roomcategorywithoutamenitiesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\roomcategoriesdtos\\getroomcategoriesbyhotelidquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\roomcategoriesdtos\\getroomcategoriesbyhotelidquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\roomamenitydtos\\roomamenityupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\roomamenitydtos\\roomamenityupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\roomamenitydtos\\roomamenitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\roomamenitydtos\\roomamenitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\roomamenitydtos\\roomamenitycreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\roomamenitydtos\\roomamenitycreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\reviewsdtos\\reviewquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\reviewsdtos\\reviewquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\reviewsdtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\reviewsdtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\reviewsdtos\\reviewcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\reviewsdtos\\reviewcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\imagedtos\\imagecreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\imagedtos\\imagecreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\hoteldtos\\hotelupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\hoteldtos\\hotelupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\hoteldtos\\hotelnoroomsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\hoteldtos\\hotelnoroomsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\hoteldtos\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\hoteldtos\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\hoteldtos\\hotelcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\hoteldtos\\hotelcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\hoteldtos\\featureddealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\hoteldtos\\featureddealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\discountdtos\\getallroomtypediscountsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\discountdtos\\getallroomtypediscountsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\discountdtos\\discountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\discountdtos\\discountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\discountdtos\\discountcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\discountdtos\\discountcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\citydtos\\cityupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\citydtos\\cityupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\citydtos\\citynohotelsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\citydtos\\citynohotelsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\citydtos\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\citydtos\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\citydtos\\citycreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\citydtos\\citycreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\bookingdtos\\reserveroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\bookingdtos\\reserveroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\bookingdtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\bookingdtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\bookingdtos\\bookingquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\bookingdtos\\bookingquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\dtos\\bookingdtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\bookingdtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\tabp_project\\tabp.application\\tabp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\tabp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C298BF2-B14F-4098-AF06-FF161324245C}|TABP.Tests\\TABP.Tests.csproj|c:\\tabp_project\\tabp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C298BF2-B14F-4098-AF06-FF161324245C}|TABP.Tests\\TABP.Tests.csproj|solutionrelative:tabp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,8 +158,437 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetHotelAvailableRoomsDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomDtos\\GetHotelAvailableRoomsDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\RoomDtos\\GetHotelAvailableRoomsDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomDtos\\GetHotelAvailableRoomsDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\RoomDtos\\GetHotelAvailableRoomsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:41:10.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetRoomsByHotelIdDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomDtos\\GetRoomsByHotelIdDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\RoomDtos\\GetRoomsByHotelIdDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomDtos\\GetRoomsByHotelIdDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\RoomDtos\\GetRoomsByHotelIdDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:41:27.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomCreationDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomDtos\\RoomCreationDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\RoomDtos\\RoomCreationDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomDtos\\RoomCreationDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\RoomDtos\\RoomCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:42:31.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomDtos\\RoomDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\RoomDtos\\RoomDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomDtos\\RoomDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\RoomDtos\\RoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:42:07.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserCreationDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\UserDtos\\UserCreationDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\UserDtos\\UserCreationDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\UserDtos\\UserCreationDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\UserDtos\\UserCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:01:01.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\UserDtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\UserDtos\\UserDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\UserDtos\\UserDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\UserDtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:00:57.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomTypeDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomCategoriesDtos\\RoomTypeDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\RoomCategoriesDtos\\RoomTypeDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomCategoriesDtos\\RoomTypeDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\RoomCategoriesDtos\\RoomTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:40:52.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomCategoryWithoutAmenitiesDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomCategoriesDtos\\RoomCategoryWithoutAmenitiesDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\RoomCategoriesDtos\\RoomCategoryWithoutAmenitiesDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomCategoriesDtos\\RoomCategoryWithoutAmenitiesDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\RoomCategoriesDtos\\RoomCategoryWithoutAmenitiesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:40:24.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetRoomCategoriesByHotelIdQueryDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomCategoriesDtos\\GetRoomCategoriesByHotelIdQueryDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\RoomCategoriesDtos\\GetRoomCategoriesByHotelIdQueryDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomCategoriesDtos\\GetRoomCategoriesByHotelIdQueryDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\RoomCategoriesDtos\\GetRoomCategoriesByHotelIdQueryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:39:27.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoomAmenityUpdateDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomAmenityDtos\\RoomAmenityUpdateDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\RoomAmenityDtos\\RoomAmenityUpdateDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomAmenityDtos\\RoomAmenityUpdateDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\RoomAmenityDtos\\RoomAmenityUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:38:35.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomAmenityDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomAmenityDtos\\RoomAmenityDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\RoomAmenityDtos\\RoomAmenityDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomAmenityDtos\\RoomAmenityDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\RoomAmenityDtos\\RoomAmenityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:38:22.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomAmenityCreationDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomAmenityDtos\\RoomAmenityCreationDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\RoomAmenityDtos\\RoomAmenityCreationDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\RoomAmenityDtos\\RoomAmenityCreationDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\RoomAmenityDtos\\RoomAmenityCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:38:31.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReviewQueryDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\ReviewsDtos\\ReviewQueryDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\ReviewsDtos\\ReviewQueryDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\ReviewsDtos\\ReviewQueryDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\ReviewsDtos\\ReviewQueryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:37:47.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\ReviewsDtos\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\ReviewsDtos\\ReviewDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\ReviewsDtos\\ReviewDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\ReviewsDtos\\ReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:37:14.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReviewCreationDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\ReviewsDtos\\ReviewCreationDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\ReviewsDtos\\ReviewCreationDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\ReviewsDtos\\ReviewCreationDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\ReviewsDtos\\ReviewCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:37:39.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ImageCreationDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\ImageDtos\\ImageCreationDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\ImageDtos\\ImageCreationDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\ImageDtos\\ImageCreationDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\ImageDtos\\ImageCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:35:52.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HotelUpdateDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\HotelDtos\\HotelUpdateDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\HotelDtos\\HotelUpdateDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\HotelDtos\\HotelUpdateDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\HotelDtos\\HotelUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:34:55.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HotelNoRoomsDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\HotelDtos\\HotelNoRoomsDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\HotelDtos\\HotelNoRoomsDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\HotelDtos\\HotelNoRoomsDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\HotelDtos\\HotelNoRoomsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:35:07.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HotelDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\HotelDtos\\HotelDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\HotelDtos\\HotelDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\HotelDtos\\HotelDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\HotelDtos\\HotelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:34:18.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HotelCreationDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\HotelDtos\\HotelCreationDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\HotelDtos\\HotelCreationDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\HotelDtos\\HotelCreationDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\HotelDtos\\HotelCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:34:38.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FeaturedDealDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\HotelDtos\\FeaturedDealDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\HotelDtos\\FeaturedDealDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\HotelDtos\\FeaturedDealDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\HotelDtos\\FeaturedDealDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:31:42.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetAllRoomTypeDiscountsDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\DiscountDtos\\GetAllRoomTypeDiscountsDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\DiscountDtos\\GetAllRoomTypeDiscountsDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\DiscountDtos\\GetAllRoomTypeDiscountsDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\DiscountDtos\\GetAllRoomTypeDiscountsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:31:22.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DiscountDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\DiscountDtos\\DiscountDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\DiscountDtos\\DiscountDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\DiscountDtos\\DiscountDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\DiscountDtos\\DiscountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:30:40.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DiscountCreationDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\DiscountDtos\\DiscountCreationDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\DiscountDtos\\DiscountCreationDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\DiscountDtos\\DiscountCreationDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\DiscountDtos\\DiscountCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:30:41.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CityUpdateDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\CityDtos\\CityUpdateDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\CityDtos\\CityUpdateDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\CityDtos\\CityUpdateDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\CityDtos\\CityUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:24:42.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CityNoHotelsDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\CityDtos\\CityNoHotelsDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\CityDtos\\CityNoHotelsDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\CityDtos\\CityNoHotelsDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\CityDtos\\CityNoHotelsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:24:54.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CityDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\CityDtos\\CityDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\CityDtos\\CityDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\CityDtos\\CityDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\CityDtos\\CityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:23:03.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CityCreationDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\CityDtos\\CityCreationDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\CityDtos\\CityCreationDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\CityDtos\\CityCreationDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\CityDtos\\CityCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:24:25.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReserveRoomDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\BookingDtos\\ReserveRoomDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\BookingDtos\\ReserveRoomDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\BookingDtos\\ReserveRoomDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\BookingDtos\\ReserveRoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:44:50.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InvoiceDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\BookingDtos\\InvoiceDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\BookingDtos\\InvoiceDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\BookingDtos\\InvoiceDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\BookingDtos\\InvoiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:20:13.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookingQueryDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\BookingDtos\\BookingQueryDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\BookingDtos\\BookingQueryDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\BookingDtos\\BookingQueryDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\BookingDtos\\BookingQueryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:19:33.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\DTOs\\BookingDtos\\BookingDto.cs",
+              "RelativeDocumentMoniker": "TABP.Application\\DTOs\\BookingDtos\\BookingDto.cs",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\DTOs\\BookingDtos\\BookingDto.cs",
+              "RelativeToolTip": "TABP.Application\\DTOs\\BookingDtos\\BookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:19:11.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TABP.Application",
+              "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\TABP.Application.csproj",
+              "RelativeDocumentMoniker": "TABP.Application\\TABP.Application.csproj",
+              "ToolTip": "C:\\TABP_Project\\TABP.Application\\TABP.Application.csproj",
+              "RelativeToolTip": "TABP.Application\\TABP.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T00:00:16.369Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -54,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 33,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\TABP_Project\\TABP.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TABP.Tests\\UnitTest1.cs",
@@ -67,7 +628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\TABP_Project\\TABP.Domain\\Program.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Program.cs",
@@ -75,12 +636,11 @@
               "RelativeToolTip": "TABP.Domain\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T23:51:02.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T23:51:02.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\TABP_Project\\TABP.Infrastructure\\Program.cs",
               "RelativeDocumentMoniker": "TABP.Infrastructure\\Program.cs",
@@ -88,12 +648,11 @@
               "RelativeToolTip": "TABP.Infrastructure\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T23:49:34.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T23:49:34.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\TABP_Project\\TABP.Application\\Program.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Program.cs",
@@ -101,8 +660,7 @@
               "RelativeToolTip": "TABP.Application\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T23:44:52.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T23:44:52.243Z"
             }
           ]
         }

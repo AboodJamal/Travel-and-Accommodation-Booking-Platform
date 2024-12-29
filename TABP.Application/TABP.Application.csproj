@@ -7,8 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\TABP.Infrastructure\TABP.Infrastructure.csproj" />
-  </ItemGroup>
 
+	<ItemGroup>
+		<ProjectReference Include="..\TABP.Domain\TABP.Domain.csproj" />
+	</ItemGroup>
+	
+	
 </Project>

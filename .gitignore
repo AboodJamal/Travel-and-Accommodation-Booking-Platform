@@ -53,6 +53,10 @@ Generated\ Files/
 TestResult.xml
 nunit-*.xml
 
+# Ignore temporary build files
+**/obj/
+
+
 # Build Results of an ATL Project
 [Dd]ebugPS/
 [Rr]eleasePS/

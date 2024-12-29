@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TABP.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc9894f37327227f898de82ab4f8abb7d08d6f7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86f8460dabcf9bb8be3cbf3ac2a9c9b9d21e471d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TABP.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TABP.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

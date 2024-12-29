@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "TABP.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TABP.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TABP.Infrastructure.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TABP.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../TABP.Infrastructure/TABP.Infrastructure.csproj",
+      "msbuildProject": "../TABP.Infrastructure/TABP.Infrastructure.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "TABP.Infrastructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Abdullah Jamal\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\TABP_Project\\TABP.Infrastructure\\TABP.Infrastructure.csproj": {
+              "projectPath": "C:\\TABP_Project\\TABP.Infrastructure\\TABP.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

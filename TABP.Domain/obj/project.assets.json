@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TABP_Project\\TABP.Domain\\TABP.Domain.csproj",
+      "projectUniqueName": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\TABP.Domain.csproj",
       "projectName": "TABP.Domain",
-      "projectPath": "C:\\TABP_Project\\TABP.Domain\\TABP.Domain.csproj",
+      "projectPath": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\TABP.Domain.csproj",
       "packagesPath": "C:\\Users\\Abdullah Jamal\\.nuget\\packages\\",
-      "outputPath": "C:\\TABP_Project\\TABP.Domain\\obj\\",
+      "outputPath": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

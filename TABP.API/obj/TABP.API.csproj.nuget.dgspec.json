@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TABP_Project\\TABP.API\\TABP.API.csproj": {}
+    "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.API\\TABP.API.csproj": {}
   },
   "projects": {
-    "C:\\TABP_Project\\TABP.API\\TABP.API.csproj": {
+    "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.API\\TABP.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TABP_Project\\TABP.API\\TABP.API.csproj",
+        "projectUniqueName": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.API\\TABP.API.csproj",
         "projectName": "TABP.API",
-        "projectPath": "C:\\TABP_Project\\TABP.API\\TABP.API.csproj",
+        "projectPath": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.API\\TABP.API.csproj",
         "packagesPath": "C:\\Users\\Abdullah Jamal\\.nuget\\packages\\",
-        "outputPath": "C:\\TABP_Project\\TABP.API\\obj\\",
+        "outputPath": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

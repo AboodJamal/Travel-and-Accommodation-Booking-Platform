@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TABP.API\TABP.API.csproj" />
+    <ProjectReference Include="..\TABP.Application\TABP.Application.csproj" />
+    <ProjectReference Include="..\TABP.Infrastructure\TABP.Infrastructure.csproj" />
+    <ProjectReference Include="..\TABP.Tests\TABP.Tests.csproj" />
+  </ItemGroup>
+
 </Project>

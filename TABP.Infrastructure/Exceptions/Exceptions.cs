@@ -35,10 +35,10 @@
     {
         public string EntityName { get; }
 
-        public NotFoundException(string entityName, string message = null)
-            : base(message ?? $"{entityName} not found.")
+        public NotFoundException(string entityNameWithId, string message = null)
+            : base(message ?? $"{entityNameWithId} is not found.")
         {
-            EntityName = entityName;
+            EntityName = entityNameWithId;
         }
     }
 

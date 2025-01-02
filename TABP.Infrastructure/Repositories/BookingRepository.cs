@@ -149,7 +149,7 @@ public class BookingRepository : BookingRepositoryInterface
         await _context.SaveChangesAsync();
     }
 
-    public async Task<bool> BookingExistsAsync(Guid bookingId, string guestEmail)
+    public async Task<bool> BookingExistsForGuestAsync(Guid bookingId, string guestEmail)
     {
         var booking = await GetByIdAsync(bookingId);
         

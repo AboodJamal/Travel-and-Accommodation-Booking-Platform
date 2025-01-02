@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TABP.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad6516b23998a4ad2f068e1e066b616503b22a7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90af5c2413fb84c07dadebd3c9c5a7ef31eb8133")]
 [assembly: System.Reflection.AssemblyProductAttribute("TABP.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TABP.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

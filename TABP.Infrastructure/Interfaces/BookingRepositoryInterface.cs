@@ -16,6 +16,6 @@ public interface BookingRepositoryInterface
     public Task UpdateAsync(Booking booking);
     public Task DeleteAsync(Guid bookingId);
     public Task SaveChangesAsync();
-    public Task<bool> BookingExistsAsync(Guid bookingId, string guestEmail);
+    public Task<bool> BookingExistsForGuestAsync(Guid bookingId, string guestEmail);
     public Task<bool> IsExistAsync(Guid bookingId);
 }

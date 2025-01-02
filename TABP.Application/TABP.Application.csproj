@@ -8,10 +8,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TABP.API\TABP.API.csproj" />
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="MediatR" Version="12.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\TABP.Domain\TABP.Domain.csproj" />
-    <ProjectReference Include="..\TABP.Infrastructure\TABP.Infrastructure.csproj" />
-    <ProjectReference Include="..\TABP.Tests\TABP.Tests.csproj" />
+	<ProjectReference Include="..\TABP.Infrastructure\TABP.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

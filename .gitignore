@@ -490,3 +490,4 @@ TABP.Infrastructure/obj/
 TABP.Tests/obj/
 
 **/obj/
+.vs/TABP_Project

@@ -1,4 +1,4 @@
-﻿using Application.DTOs.HotelDtos;
+﻿using TABP.Application.DTOs.HotelDtos;
 
 namespace TABP.Application.DTOs.CityDtos;
 
@@ -9,5 +9,5 @@ public record CityDto
     public string Country { get; set; } = string.Empty;
     public string CountryCode { get; set; } = string.Empty;
     public string PostOffice { get; set; } = string.Empty;
-    public IList<HotelWithoutRoomsDto> Hotels { get; set; }
+    public IList<HotelNoRoomsDto> Hotels { get; set; }
 }

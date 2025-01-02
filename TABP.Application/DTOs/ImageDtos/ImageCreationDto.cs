@@ -1,4 +1,5 @@
-﻿using TABP.Domain.Enums;
+
+﻿using Domain.Enums;
 
 namespace TABP.Application.DTOs.ImageDtos;
 

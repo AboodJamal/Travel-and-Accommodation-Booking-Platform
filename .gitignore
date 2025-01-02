@@ -488,3 +488,5 @@ TABP.Application/obj/
 TABP.Domain/obj/
 TABP.Infrastructure/obj/
 TABP.Tests/obj/
+
+**/obj/

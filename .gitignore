@@ -482,3 +482,9 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+TABP.API/obj/
+TABP.Application/obj/
+TABP.Domain/obj/
+TABP.Infrastructure/obj/
+TABP.Tests/obj/

@@ -7,180 +7,8 @@
       "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\queries\\roomqueries\\getroomsbyhotelidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\roomhandlers\\getroomsbyhotelidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\roomhandlers\\getroomsbyhotelidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\roomhandlers\\getroombyidandhotelidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\roomhandlers\\getroombyidandhotelidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\roomhandlers\\createroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\roomhandlers\\createroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3ED26282-3C79-4923-95F1-013841061771}|TABP.Infrastructure\\TABP.Infrastructure.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.infrastructure\\exceptions\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ED26282-3C79-4923-95F1-013841061771}|TABP.Infrastructure\\TABP.Infrastructure.csproj|solutionrelative:tabp.infrastructure\\exceptions\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\roomhandlers\\checkroomexistsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\roomhandlers\\checkroomexistsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\roomhandlers\\checkroombelongstohotelqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\roomhandlers\\checkroombelongstohotelqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\roomcategoryhandlers\\getroomcategoriesbyhotelidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\roomcategoryhandlers\\getroomcategoriesbyhotelidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\roomcategoryhandlers\\checkroomtypeexistsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\roomcategoryhandlers\\checkroomtypeexistsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\roomamenityhandlers\\updateroomamenitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\roomamenityhandlers\\updateroomamenitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\roomamenityhandlers\\getroomamenitybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\roomamenityhandlers\\getroomamenitybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\roomamenityhandlers\\getallroomamenitiesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\roomamenityhandlers\\getallroomamenitiesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\roomamenityhandlers\\createroomamenitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\roomamenityhandlers\\createroomamenitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\roomamenityhandlers\\checkifroomamenityexistsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\roomamenityhandlers\\checkifroomamenityexistsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\reviewhandlers\\getreviewsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\reviewhandlers\\getreviewsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\reviewhandlers\\createreviewcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\reviewhandlers\\createreviewcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\reviewhandlers\\checkifreviewexistsforbookingqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\reviewhandlers\\checkifreviewexistsforbookingqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\hotelhandlers\\updatehotelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\hotelhandlers\\updatehotelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\hotelhandlers\\hotelsearchqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\hotelhandlers\\hotelsearchqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\hotelhandlers\\gethotelbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\hotelhandlers\\gethotelbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\hotelhandlers\\gethotelavailableroomsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\hotelhandlers\\gethotelavailableroomsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\hotelhandlers\\getfeatureddealsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\hotelhandlers\\getfeatureddealsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\hotelhandlers\\getallhotelsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\hotelhandlers\\getallhotelsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\hotelhandlers\\deletehotelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\hotelhandlers\\deletehotelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\cityhandlers\\updatecityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\cityhandlers\\updatecityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\discounthandlers\\getdiscountbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\discounthandlers\\getdiscountbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\hotelhandlers\\createhotelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\hotelhandlers\\createhotelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\hotelhandlers\\checkhotelexistsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\hotelhandlers\\checkhotelexistsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\discounthandlers\\getallroomtypediscountsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\discounthandlers\\getallroomtypediscountsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\discounthandlers\\deletediscountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\discounthandlers\\deletediscountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\discounthandlers\\creatediscountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\discounthandlers\\creatediscountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\discounthandlers\\checkifdiscountexistsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\discounthandlers\\checkifdiscountexistsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\discounthandlers\\checkforoverlappingdiscountsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\discounthandlers\\checkforoverlappingdiscountsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\cityhandlers\\gettrendingcitiesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\cityhandlers\\gettrendingcitiesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\cityhandlers\\getcitybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\cityhandlers\\getcitybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\cityhandlers\\getcititesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\cityhandlers\\getcititesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\cityhandlers\\createcitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\cityhandlers\\createcitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\cityhandlers\\checkifcityexistsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\cityhandlers\\checkifcityexistsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\bookinghandlers\\getinvoicebybookingidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\bookinghandlers\\getinvoicebybookingidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\bookinghandlers\\getbookingsbyhotelidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\bookinghandlers\\getbookingsbyhotelidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\bookinghandlers\\deletebookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\bookinghandlers\\deletebookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\bookinghandlers\\checkifbookingexistsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\bookinghandlers\\checkifbookingexistsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\bookinghandlers\\bookroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\bookinghandlers\\bookroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\bookinghandlers\\bookingexistsforguestqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\bookinghandlers\\bookingexistsforguestqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\roomamenityhandlers\\deleteroomamenitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\roomamenityhandlers\\deleteroomamenitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\queries\\roomamenityqueries\\checkroomamenityexistsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -197,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\queries\\discountqueries\\checkdiscountexistsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\queries\\discountqueries\\checkdiscountexistsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\handlers\\cityhandlers\\deletecityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\handlers\\cityhandlers\\deletecityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\queries\\cityqueries\\checkcityexistsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -472,6 +296,182 @@
     {
       "AbsoluteMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|c:\\travel-and-accommodation-booking-platform\\tabp.application\\dtos\\citydtos\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9023CDE9-19DF-41FA-A607-3DC3F71C7988}|TABP.Application\\TABP.Application.csproj|solutionrelative:tabp.application\\dtos\\citydtos\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomHandlers\\CreateRoomCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\RoomHandlers\\CreateRoomCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomHandlers\\GetRoomByIdAndHotelIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\RoomHandlers\\GetRoomByIdAndHotelIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomHandlers\\GetRoomsByHotelIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\RoomHandlers\\GetRoomsByHotelIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomHandlers\\CheckRoomExistsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\RoomHandlers\\CheckRoomExistsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomHandlers\\CheckRoomBelongsToHotelQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\RoomHandlers\\CheckRoomBelongsToHotelQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomCategoryHandlers\\GetRoomCategoriesByHotelIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\RoomCategoryHandlers\\GetRoomCategoriesByHotelIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomCategoryHandlers\\CheckRoomTypeExistsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\RoomCategoryHandlers\\CheckRoomTypeExistsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomAmenityHandlers\\UpdateRoomAmenityCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\RoomAmenityHandlers\\UpdateRoomAmenityCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomAmenityHandlers\\GetRoomAmenityByIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\RoomAmenityHandlers\\GetRoomAmenityByIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomAmenityHandlers\\GetAllRoomAmenitiesQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\RoomAmenityHandlers\\GetAllRoomAmenitiesQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomAmenityHandlers\\CreateRoomAmenityCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\RoomAmenityHandlers\\CreateRoomAmenityCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomAmenityHandlers\\CheckIfRoomAmenityExistsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\RoomAmenityHandlers\\CheckIfRoomAmenityExistsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\ReviewHandlers\\GetReviewsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\ReviewHandlers\\GetReviewsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\ReviewHandlers\\CreateReviewCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\ReviewHandlers\\CreateReviewCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\ReviewHandlers\\CheckIfReviewExistsForBookingQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\ReviewHandlers\\CheckIfReviewExistsForBookingQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\UpdateHotelCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\HotelHandlers\\UpdateHotelCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\HotelSearchQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\HotelHandlers\\HotelSearchQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\GetHotelByIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\HotelHandlers\\GetHotelByIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\GetHotelAvailableRoomsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\HotelHandlers\\GetHotelAvailableRoomsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\GetFeaturedDealsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\HotelHandlers\\GetFeaturedDealsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\GetAllHotelsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\HotelHandlers\\GetAllHotelsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\DeleteHotelCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\HotelHandlers\\DeleteHotelCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\CityHandlers\\UpdateCityHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\CityHandlers\\UpdateCityHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\DiscountHandlers\\GetDiscountByIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\DiscountHandlers\\GetDiscountByIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\CreateHotelCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\HotelHandlers\\CreateHotelCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\CheckHotelExistsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\HotelHandlers\\CheckHotelExistsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\DiscountHandlers\\GetAllRoomTypeDiscountsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\DiscountHandlers\\GetAllRoomTypeDiscountsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\DiscountHandlers\\DeleteDiscountCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\DiscountHandlers\\DeleteDiscountCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\DiscountHandlers\\CreateDiscountCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\DiscountHandlers\\CreateDiscountCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\DiscountHandlers\\CheckIfDiscountExistsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\DiscountHandlers\\CheckIfDiscountExistsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\DiscountHandlers\\CheckForOverlappingDiscountsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\DiscountHandlers\\CheckForOverlappingDiscountsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\CityHandlers\\GetTrendingCitiesQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\CityHandlers\\GetTrendingCitiesQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\CityHandlers\\GetCityByIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\CityHandlers\\GetCityByIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\CityHandlers\\GetCititesQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\CityHandlers\\GetCititesQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\CityHandlers\\CreateCityCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\CityHandlers\\CreateCityCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\CityHandlers\\CheckIfCityExistsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\CityHandlers\\CheckIfCityExistsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\BookingHandlers\\GetInvoiceByBookingIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\BookingHandlers\\GetInvoiceByBookingIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\BookingHandlers\\GetBookingsByHotelIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\BookingHandlers\\GetBookingsByHotelIdQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\BookingHandlers\\DeleteBookingCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\BookingHandlers\\DeleteBookingCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\BookingHandlers\\CheckIfBookingExistsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\BookingHandlers\\CheckIfBookingExistsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\BookingHandlers\\BookRoomCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\BookingHandlers\\BookRoomCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\BookingHandlers\\BookingExistsForGuestQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\BookingHandlers\\BookingExistsForGuestQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomAmenityHandlers\\DeleteRoomAmenityCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\RoomAmenityHandlers\\DeleteRoomAmenityCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\CityHandlers\\DeleteCityHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TABP.Application\\Handlers\\CityHandlers\\DeleteCityHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -513,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 74,
               "Title": "CreateRoomCommandHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomHandlers\\CreateRoomCommandHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\RoomHandlers\\CreateRoomCommandHandler.cs",
@@ -521,12 +521,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\RoomHandlers\\CreateRoomCommandHandler.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:06:44.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T21:06:44.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Exceptions.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Infrastructure\\Exceptions\\Exceptions.cs",
               "RelativeDocumentMoniker": "TABP.Infrastructure\\Exceptions\\Exceptions.cs",
@@ -534,12 +533,11 @@
               "RelativeToolTip": "TABP.Infrastructure\\Exceptions\\Exceptions.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAA9wCcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:40:20.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:40:20.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 75,
               "Title": "GetRoomByIdAndHotelIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomHandlers\\GetRoomByIdAndHotelIdQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\RoomHandlers\\GetRoomByIdAndHotelIdQueryHandler.cs",
@@ -547,12 +545,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\RoomHandlers\\GetRoomByIdAndHotelIdQueryHandler.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:08:23.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T21:08:23.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 76,
               "Title": "GetRoomsByHotelIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomHandlers\\GetRoomsByHotelIdQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\RoomHandlers\\GetRoomsByHotelIdQueryHandler.cs",
@@ -560,8 +557,7 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\RoomHandlers\\GetRoomsByHotelIdQueryHandler.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:08:57.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T21:08:57.909Z"
             },
             {
               "$type": "Document",
@@ -571,14 +567,14 @@
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\RoomQueries\\GetRoomsByHotelIdQuery.cs",
               "ToolTip": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\RoomQueries\\GetRoomsByHotelIdQuery.cs",
               "RelativeToolTip": "TABP.Application\\Queries\\RoomQueries\\GetRoomsByHotelIdQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T21:09:21.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 77,
               "Title": "CheckRoomExistsQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomHandlers\\CheckRoomExistsQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\RoomHandlers\\CheckRoomExistsQueryHandler.cs",
@@ -586,12 +582,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\RoomHandlers\\CheckRoomExistsQueryHandler.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:06:28.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T21:06:28.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 78,
               "Title": "CheckRoomBelongsToHotelQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomHandlers\\CheckRoomBelongsToHotelQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\RoomHandlers\\CheckRoomBelongsToHotelQueryHandler.cs",
@@ -599,12 +594,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\RoomHandlers\\CheckRoomBelongsToHotelQueryHandler.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:05:44.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T21:05:44.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 79,
               "Title": "GetRoomCategoriesByHotelIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomCategoryHandlers\\GetRoomCategoriesByHotelIdQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\RoomCategoryHandlers\\GetRoomCategoriesByHotelIdQueryHandler.cs",
@@ -612,12 +606,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\RoomCategoryHandlers\\GetRoomCategoriesByHotelIdQueryHandler.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwAkAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:04:45.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T21:04:45.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 80,
               "Title": "CheckRoomTypeExistsQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomCategoryHandlers\\CheckRoomTypeExistsQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\RoomCategoryHandlers\\CheckRoomTypeExistsQueryHandler.cs",
@@ -625,12 +618,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\RoomCategoryHandlers\\CheckRoomTypeExistsQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:04:27.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T21:04:27.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 81,
               "Title": "UpdateRoomAmenityCommandHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomAmenityHandlers\\UpdateRoomAmenityCommandHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\RoomAmenityHandlers\\UpdateRoomAmenityCommandHandler.cs",
@@ -638,12 +630,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\RoomAmenityHandlers\\UpdateRoomAmenityCommandHandler.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:03:45.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T21:03:45.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 82,
               "Title": "GetRoomAmenityByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomAmenityHandlers\\GetRoomAmenityByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\RoomAmenityHandlers\\GetRoomAmenityByIdQueryHandler.cs",
@@ -651,12 +642,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\RoomAmenityHandlers\\GetRoomAmenityByIdQueryHandler.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:03:23.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T21:03:23.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 83,
               "Title": "GetAllRoomAmenitiesQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomAmenityHandlers\\GetAllRoomAmenitiesQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\RoomAmenityHandlers\\GetAllRoomAmenitiesQueryHandler.cs",
@@ -664,12 +654,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\RoomAmenityHandlers\\GetAllRoomAmenitiesQueryHandler.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:02:26.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T21:02:26.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 84,
               "Title": "CreateRoomAmenityCommandHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomAmenityHandlers\\CreateRoomAmenityCommandHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\RoomAmenityHandlers\\CreateRoomAmenityCommandHandler.cs",
@@ -677,12 +666,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\RoomAmenityHandlers\\CreateRoomAmenityCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:00:58.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T21:00:58.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 85,
               "Title": "CheckIfRoomAmenityExistsQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomAmenityHandlers\\CheckIfRoomAmenityExistsQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\RoomAmenityHandlers\\CheckIfRoomAmenityExistsQueryHandler.cs",
@@ -690,12 +678,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\RoomAmenityHandlers\\CheckIfRoomAmenityExistsQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:00:27.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T21:00:27.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 86,
               "Title": "GetReviewsQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\ReviewHandlers\\GetReviewsQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\ReviewHandlers\\GetReviewsQueryHandler.cs",
@@ -703,12 +690,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\ReviewHandlers\\GetReviewsQueryHandler.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:59:33.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:59:33.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 87,
               "Title": "CreateReviewCommandHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\ReviewHandlers\\CreateReviewCommandHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\ReviewHandlers\\CreateReviewCommandHandler.cs",
@@ -716,12 +702,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\ReviewHandlers\\CreateReviewCommandHandler.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:58:59.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:58:59.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 88,
               "Title": "CheckIfReviewExistsForBookingQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\ReviewHandlers\\CheckIfReviewExistsForBookingQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\ReviewHandlers\\CheckIfReviewExistsForBookingQueryHandler.cs",
@@ -729,12 +714,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\ReviewHandlers\\CheckIfReviewExistsForBookingQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:57:41.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:57:41.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 89,
               "Title": "UpdateHotelCommandHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\UpdateHotelCommandHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\HotelHandlers\\UpdateHotelCommandHandler.cs",
@@ -742,12 +726,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\HotelHandlers\\UpdateHotelCommandHandler.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:51:41.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:51:41.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 90,
               "Title": "HotelSearchQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\HotelSearchQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\HotelHandlers\\HotelSearchQueryHandler.cs",
@@ -755,12 +738,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\HotelHandlers\\HotelSearchQueryHandler.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:51:37.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:51:37.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 91,
               "Title": "GetHotelByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\GetHotelByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\HotelHandlers\\GetHotelByIdQueryHandler.cs",
@@ -768,12 +750,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\HotelHandlers\\GetHotelByIdQueryHandler.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAuwAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:51:34.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:51:34.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 92,
               "Title": "GetHotelAvailableRoomsQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\GetHotelAvailableRoomsQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\HotelHandlers\\GetHotelAvailableRoomsQueryHandler.cs",
@@ -781,12 +762,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\HotelHandlers\\GetHotelAvailableRoomsQueryHandler.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:51:30.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:51:30.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 93,
               "Title": "GetFeaturedDealsQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\GetFeaturedDealsQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\HotelHandlers\\GetFeaturedDealsQueryHandler.cs",
@@ -794,12 +774,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\HotelHandlers\\GetFeaturedDealsQueryHandler.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:51:27.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:51:27.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 94,
               "Title": "GetAllHotelsQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\GetAllHotelsQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\HotelHandlers\\GetAllHotelsQueryHandler.cs",
@@ -807,12 +786,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\HotelHandlers\\GetAllHotelsQueryHandler.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:51:24.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:51:24.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 95,
               "Title": "DeleteHotelCommandHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\DeleteHotelCommandHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\HotelHandlers\\DeleteHotelCommandHandler.cs",
@@ -820,12 +798,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\HotelHandlers\\DeleteHotelCommandHandler.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:51:19.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:51:19.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 96,
               "Title": "UpdateCityHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\CityHandlers\\UpdateCityHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\CityHandlers\\UpdateCityHandler.cs",
@@ -833,12 +810,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\CityHandlers\\UpdateCityHandler.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:43:28.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:43:28.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 97,
               "Title": "GetDiscountByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\DiscountHandlers\\GetDiscountByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\DiscountHandlers\\GetDiscountByIdQueryHandler.cs",
@@ -846,12 +822,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\DiscountHandlers\\GetDiscountByIdQueryHandler.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:47:18.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:47:18.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 98,
               "Title": "CreateHotelCommandHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\CreateHotelCommandHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\HotelHandlers\\CreateHotelCommandHandler.cs",
@@ -859,12 +834,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\HotelHandlers\\CreateHotelCommandHandler.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:51:06.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:51:06.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 99,
               "Title": "CheckHotelExistsQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\HotelHandlers\\CheckHotelExistsQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\HotelHandlers\\CheckHotelExistsQueryHandler.cs",
@@ -872,12 +846,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\HotelHandlers\\CheckHotelExistsQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:47:47.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:47:47.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 100,
               "Title": "GetAllRoomTypeDiscountsQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\DiscountHandlers\\GetAllRoomTypeDiscountsQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\DiscountHandlers\\GetAllRoomTypeDiscountsQueryHandler.cs",
@@ -885,12 +858,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\DiscountHandlers\\GetAllRoomTypeDiscountsQueryHandler.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:46:24.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:46:24.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 101,
               "Title": "DeleteDiscountCommandHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\DiscountHandlers\\DeleteDiscountCommandHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\DiscountHandlers\\DeleteDiscountCommandHandler.cs",
@@ -898,12 +870,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\DiscountHandlers\\DeleteDiscountCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:46:17.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:46:17.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 102,
               "Title": "CreateDiscountCommandHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\DiscountHandlers\\CreateDiscountCommandHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\DiscountHandlers\\CreateDiscountCommandHandler.cs",
@@ -911,12 +882,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\DiscountHandlers\\CreateDiscountCommandHandler.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:45:39.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:45:39.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 103,
               "Title": "CheckIfDiscountExistsQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\DiscountHandlers\\CheckIfDiscountExistsQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\DiscountHandlers\\CheckIfDiscountExistsQueryHandler.cs",
@@ -924,12 +894,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\DiscountHandlers\\CheckIfDiscountExistsQueryHandler.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:44:55.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:44:55.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 104,
               "Title": "CheckForOverlappingDiscountsQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\DiscountHandlers\\CheckForOverlappingDiscountsQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\DiscountHandlers\\CheckForOverlappingDiscountsQueryHandler.cs",
@@ -937,12 +906,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\DiscountHandlers\\CheckForOverlappingDiscountsQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:45:22.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:45:22.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 105,
               "Title": "GetTrendingCitiesQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\CityHandlers\\GetTrendingCitiesQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\CityHandlers\\GetTrendingCitiesQueryHandler.cs",
@@ -950,12 +918,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\CityHandlers\\GetTrendingCitiesQueryHandler.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:42:40.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:42:40.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 106,
               "Title": "GetCityByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\CityHandlers\\GetCityByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\CityHandlers\\GetCityByIdQueryHandler.cs",
@@ -963,12 +930,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\CityHandlers\\GetCityByIdQueryHandler.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:42:10.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:42:10.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 107,
               "Title": "GetCititesQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\CityHandlers\\GetCititesQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\CityHandlers\\GetCititesQueryHandler.cs",
@@ -976,12 +942,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\CityHandlers\\GetCititesQueryHandler.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:40:56.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:40:56.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 108,
               "Title": "CreateCityCommandHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\CityHandlers\\CreateCityCommandHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\CityHandlers\\CreateCityCommandHandler.cs",
@@ -989,12 +954,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\CityHandlers\\CreateCityCommandHandler.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:38:25.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:38:25.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 109,
               "Title": "CheckIfCityExistsQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\CityHandlers\\CheckIfCityExistsQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\CityHandlers\\CheckIfCityExistsQueryHandler.cs",
@@ -1002,12 +966,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\CityHandlers\\CheckIfCityExistsQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:37:46.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:37:46.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 110,
               "Title": "GetInvoiceByBookingIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\BookingHandlers\\GetInvoiceByBookingIdQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\BookingHandlers\\GetInvoiceByBookingIdQueryHandler.cs",
@@ -1015,12 +978,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\BookingHandlers\\GetInvoiceByBookingIdQueryHandler.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T18:59:41.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T18:59:41.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 111,
               "Title": "GetBookingsByHotelIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\BookingHandlers\\GetBookingsByHotelIdQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\BookingHandlers\\GetBookingsByHotelIdQueryHandler.cs",
@@ -1028,12 +990,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\BookingHandlers\\GetBookingsByHotelIdQueryHandler.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwAsAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T19:07:51.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T19:07:51.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 112,
               "Title": "DeleteBookingCommandHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\BookingHandlers\\DeleteBookingCommandHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\BookingHandlers\\DeleteBookingCommandHandler.cs",
@@ -1041,12 +1002,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\BookingHandlers\\DeleteBookingCommandHandler.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T18:45:00.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T18:45:00.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 113,
               "Title": "CheckIfBookingExistsQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\BookingHandlers\\CheckIfBookingExistsQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\BookingHandlers\\CheckIfBookingExistsQueryHandler.cs",
@@ -1054,12 +1014,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\BookingHandlers\\CheckIfBookingExistsQueryHandler.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T18:41:35.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T18:41:35.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 114,
               "Title": "BookRoomCommandHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\BookingHandlers\\BookRoomCommandHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\BookingHandlers\\BookRoomCommandHandler.cs",
@@ -1067,12 +1026,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\BookingHandlers\\BookRoomCommandHandler.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAwBAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:33:28.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:33:28.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 115,
               "Title": "BookingExistsForGuestQueryHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\BookingHandlers\\BookingExistsForGuestQueryHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\BookingHandlers\\BookingExistsForGuestQueryHandler.cs",
@@ -1080,12 +1038,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\BookingHandlers\\BookingExistsForGuestQueryHandler.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T18:26:37.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T18:26:37.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 116,
               "Title": "DeleteRoomAmenityCommandHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\RoomAmenityHandlers\\DeleteRoomAmenityCommandHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\RoomAmenityHandlers\\DeleteRoomAmenityCommandHandler.cs",
@@ -1093,12 +1050,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\RoomAmenityHandlers\\DeleteRoomAmenityCommandHandler.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:01:56.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T21:01:56.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 2,
               "Title": "CheckRoomAmenityExistsQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\RoomAmenityQueries\\CheckRoomAmenityExistsQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\RoomAmenityQueries\\CheckRoomAmenityExistsQuery.cs",
@@ -1106,12 +1062,11 @@
               "RelativeToolTip": "TABP.Application\\Queries\\RoomAmenityQueries\\CheckRoomAmenityExistsQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T19:58:37.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T19:58:37.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 3,
               "Title": "CheckReviewExistenceForBookingQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\ReviewQueries\\CheckReviewExistenceForBookingQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\ReviewQueries\\CheckReviewExistenceForBookingQuery.cs",
@@ -1119,12 +1074,11 @@
               "RelativeToolTip": "TABP.Application\\Queries\\ReviewQueries\\CheckReviewExistenceForBookingQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T18:57:50.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T18:57:50.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 4,
               "Title": "CheckHotelExistsQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\HotelQueries\\CheckHotelExistsQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\HotelQueries\\CheckHotelExistsQuery.cs",
@@ -1132,12 +1086,11 @@
               "RelativeToolTip": "TABP.Application\\Queries\\HotelQueries\\CheckHotelExistsQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T18:56:21.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T18:56:21.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 5,
               "Title": "CheckDiscountExistsQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\DiscountQueries\\CheckDiscountExistsQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\DiscountQueries\\CheckDiscountExistsQuery.cs",
@@ -1145,12 +1098,11 @@
               "RelativeToolTip": "TABP.Application\\Queries\\DiscountQueries\\CheckDiscountExistsQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T18:52:25.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T18:52:25.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 117,
               "Title": "DeleteCityHandler.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Handlers\\CityHandlers\\DeleteCityHandler.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Handlers\\CityHandlers\\DeleteCityHandler.cs",
@@ -1158,12 +1110,11 @@
               "RelativeToolTip": "TABP.Application\\Handlers\\CityHandlers\\DeleteCityHandler.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:39:48.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:39:48.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 6,
               "Title": "CheckCityExistsQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\CityQueries\\CheckCityExistsQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\CityQueries\\CheckCityExistsQuery.cs",
@@ -1171,12 +1122,11 @@
               "RelativeToolTip": "TABP.Application\\Queries\\CityQueries\\CheckCityExistsQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T18:51:09.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T18:51:09.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 7,
               "Title": "ReserveRoomCommand.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Commands\\BookingCommands\\ReserveRoomCommand.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Commands\\BookingCommands\\ReserveRoomCommand.cs",
@@ -1184,12 +1134,11 @@
               "RelativeToolTip": "TABP.Application\\Commands\\BookingCommands\\ReserveRoomCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:36:19.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T20:36:19.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 8,
               "Title": "GetBookingInvoiceQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\BookingQueries\\GetBookingInvoiceQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\BookingQueries\\GetBookingInvoiceQuery.cs",
@@ -1197,12 +1146,11 @@
               "RelativeToolTip": "TABP.Application\\Queries\\BookingQueries\\GetBookingInvoiceQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T19:07:36.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T19:07:36.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 9,
               "Title": "CheckBookingExistsQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\BookingQueries\\CheckBookingExistsQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\BookingQueries\\CheckBookingExistsQuery.cs",
@@ -1210,12 +1158,11 @@
               "RelativeToolTip": "TABP.Application\\Queries\\BookingQueries\\CheckBookingExistsQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T18:47:13.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T18:47:13.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 10,
               "Title": "CheckBookingExistenceForAuthenticatedGuestQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\BookingQueries\\CheckBookingExistenceForAuthenticatedGuestQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\BookingQueries\\CheckBookingExistenceForAuthenticatedGuestQuery.cs",
@@ -1223,12 +1170,11 @@
               "RelativeToolTip": "TABP.Application\\Queries\\BookingQueries\\CheckBookingExistenceForAuthenticatedGuestQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T18:45:27.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T18:45:27.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 11,
               "Title": "BookingRepository.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Infrastructure\\Repositories\\BookingRepository.cs",
               "RelativeDocumentMoniker": "TABP.Infrastructure\\Repositories\\BookingRepository.cs",
@@ -1236,12 +1182,11 @@
               "RelativeToolTip": "TABP.Infrastructure\\Repositories\\BookingRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T18:44:21.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T18:44:21.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 12,
               "Title": "BookingRepositoryInterface.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Infrastructure\\Interfaces\\BookingRepositoryInterface.cs",
               "RelativeDocumentMoniker": "TABP.Infrastructure\\Interfaces\\BookingRepositoryInterface.cs",
@@ -1249,12 +1194,11 @@
               "RelativeToolTip": "TABP.Infrastructure\\Interfaces\\BookingRepositoryInterface.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T18:40:23.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T18:40:23.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 13,
               "Title": "CreateRoomCommand.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Commands\\RoomCommands\\CreateRoomCommand.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Commands\\RoomCommands\\CreateRoomCommand.cs",
@@ -1266,7 +1210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 14,
               "Title": "GetRecentlyVisitedHotelsForGuestQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\UserQueries\\GetRecentlyVisitedHotelsForGuestQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\UserQueries\\GetRecentlyVisitedHotelsForGuestQuery.cs",
@@ -1278,7 +1222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 15,
               "Title": "GetRecentlyVisitedHotelsForAuthenticatedGuestQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\UserQueries\\GetRecentlyVisitedHotelsForAuthenticatedGuestQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\UserQueries\\GetRecentlyVisitedHotelsForAuthenticatedGuestQuery.cs",
@@ -1290,7 +1234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 16,
               "Title": "GetBookingsForAuthenticatedGuestQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\UserQueries\\GetBookingsForAuthenticatedGuestQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\UserQueries\\GetBookingsForAuthenticatedGuestQuery.cs",
@@ -1302,7 +1246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 18,
               "Title": "CreateHotelCommand.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Commands\\HotelCommands\\CreateHotelCommand.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Commands\\HotelCommands\\CreateHotelCommand.cs",
@@ -1314,7 +1258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 17,
               "Title": "GetAllHotelsQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\HotelQueries\\GetAllHotelsQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\HotelQueries\\GetAllHotelsQuery.cs",
@@ -1326,7 +1270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 19,
               "Title": "GetRoomByIdQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\RoomQueries\\GetRoomByIdQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\RoomQueries\\GetRoomByIdQuery.cs",
@@ -1338,7 +1282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 20,
               "Title": "GetRoomCategoriesByHotelIdQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\RoomCategoryQueries\\GetRoomCategoriesByHotelIdQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\RoomCategoryQueries\\GetRoomCategoriesByHotelIdQuery.cs",
@@ -1350,7 +1294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 21,
               "Title": "GetRoomAmenityByIdQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\RoomAmenityQueries\\GetRoomAmenityByIdQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\RoomAmenityQueries\\GetRoomAmenityByIdQuery.cs",
@@ -1362,7 +1306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 22,
               "Title": "GetAllRoomAmenitiesQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\RoomAmenityQueries\\GetAllRoomAmenitiesQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\RoomAmenityQueries\\GetAllRoomAmenitiesQuery.cs",
@@ -1374,7 +1318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 23,
               "Title": "CreateRoomAmenityCommand.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Commands\\RoomAmenityCommands\\CreateRoomAmenityCommand.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Commands\\RoomAmenityCommands\\CreateRoomAmenityCommand.cs",
@@ -1386,7 +1330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 24,
               "Title": "GetReviewsQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\ReviewQueries\\GetReviewsQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\ReviewQueries\\GetReviewsQuery.cs",
@@ -1398,7 +1342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 25,
               "Title": "CreateReviewCommand.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Commands\\ReviewCommands\\CreateReviewCommand.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Commands\\ReviewCommands\\CreateReviewCommand.cs",
@@ -1410,7 +1354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 26,
               "Title": "HotelSearchQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\HotelQueries\\HotelSearchQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\HotelQueries\\HotelSearchQuery.cs",
@@ -1422,7 +1366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 27,
               "Title": "GetHotelByIdQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\HotelQueries\\GetHotelByIdQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\HotelQueries\\GetHotelByIdQuery.cs",
@@ -1434,7 +1378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 28,
               "Title": "GetHotelAvailableRooms.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\HotelQueries\\GetHotelAvailableRooms.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\HotelQueries\\GetHotelAvailableRooms.cs",
@@ -1446,7 +1390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 29,
               "Title": "GetFeaturedDealsQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\HotelQueries\\GetFeaturedDealsQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\HotelQueries\\GetFeaturedDealsQuery.cs",
@@ -1458,7 +1402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 30,
               "Title": "GetDiscountByIdQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\DiscountQueries\\GetDiscountByIdQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\DiscountQueries\\GetDiscountByIdQuery.cs",
@@ -1470,7 +1414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 31,
               "Title": "GetAllRoomTypeDiscountsQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\DiscountQueries\\GetAllRoomTypeDiscountsQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\DiscountQueries\\GetAllRoomTypeDiscountsQuery.cs",
@@ -1482,7 +1426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 32,
               "Title": "CreateDiscountCommand.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Commands\\DiscountCommands\\CreateDiscountCommand.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Commands\\DiscountCommands\\CreateDiscountCommand.cs",
@@ -1494,7 +1438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 33,
               "Title": "GetTrendingCitiesQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\CityQueries\\GetTrendingCitiesQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\CityQueries\\GetTrendingCitiesQuery.cs",
@@ -1506,7 +1450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 34,
               "Title": "GetCityByIdQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\CityQueries\\GetCityByIdQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\CityQueries\\GetCityByIdQuery.cs",
@@ -1518,7 +1462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 35,
               "Title": "GetCitiesQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\CityQueries\\GetCitiesQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\CityQueries\\GetCitiesQuery.cs",
@@ -1530,7 +1474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 36,
               "Title": "CreateCityCommand.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Commands\\CityCommands\\CreateCityCommand.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Commands\\CityCommands\\CreateCityCommand.cs",
@@ -1542,7 +1486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 37,
               "Title": "GetBookingsByHotelIdQuery.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\Queries\\BookingQueries\\GetBookingsByHotelIdQuery.cs",
               "RelativeDocumentMoniker": "TABP.Application\\Queries\\BookingQueries\\GetBookingsByHotelIdQuery.cs",
@@ -1554,7 +1498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 38,
               "Title": "ErrorModel.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Infrastructure\\ExtraModels\\ErrorModel.cs",
               "RelativeDocumentMoniker": "TABP.Infrastructure\\ExtraModels\\ErrorModel.cs",
@@ -1566,7 +1510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 39,
               "Title": "BookingDto.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\DTOs\\BookingDtos\\BookingDto.cs",
               "RelativeDocumentMoniker": "TABP.Application\\DTOs\\BookingDtos\\BookingDto.cs",
@@ -1578,7 +1522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 41,
               "Title": "TABP.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Infrastructure\\TABP.Infrastructure.csproj",
               "RelativeDocumentMoniker": "TABP.Infrastructure\\TABP.Infrastructure.csproj",
@@ -1590,7 +1534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 40,
               "Title": "TABP.Application.csproj",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\TABP.Application.csproj",
               "RelativeDocumentMoniker": "TABP.Application\\TABP.Application.csproj",
@@ -1602,7 +1546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 43,
               "Title": "TABP.Tests.csproj",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Tests\\TABP.Tests.csproj",
               "RelativeDocumentMoniker": "TABP.Tests\\TABP.Tests.csproj",
@@ -1614,7 +1558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 45,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Entities\\Payment.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Entities\\Payment.cs",
@@ -1626,7 +1570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 47,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Entities\\Booking.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Entities\\Booking.cs",
@@ -1638,7 +1582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 44,
               "Title": "Image.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Entities\\Image.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Entities\\Image.cs",
@@ -1646,12 +1590,11 @@
               "RelativeToolTip": "TABP.Domain\\Entities\\Image.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T17:48:17.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T17:48:17.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 42,
               "Title": "ImageCreationDto.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\DTOs\\ImageDtos\\ImageCreationDto.cs",
               "RelativeDocumentMoniker": "TABP.Application\\DTOs\\ImageDtos\\ImageCreationDto.cs",
@@ -1659,12 +1602,11 @@
               "RelativeToolTip": "TABP.Application\\DTOs\\ImageDtos\\ImageCreationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T17:43:12.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T17:43:12.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 48,
               "Title": "ImgFormat.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Enums\\ImgFormat.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Enums\\ImgFormat.cs",
@@ -1676,7 +1618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 49,
               "Title": "InvoiceDto.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\DTOs\\BookingDtos\\InvoiceDto.cs",
               "RelativeDocumentMoniker": "TABP.Application\\DTOs\\BookingDtos\\InvoiceDto.cs",
@@ -1688,7 +1630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 46,
               "Title": "TABP.API.csproj",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.API\\TABP.API.csproj",
               "RelativeDocumentMoniker": "TABP.API\\TABP.API.csproj",
@@ -1700,7 +1642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 51,
               "Title": "RoomType.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Enums\\RoomType.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Enums\\RoomType.cs",
@@ -1712,7 +1654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 50,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Enums\\UserRole.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Enums\\UserRole.cs",
@@ -1724,7 +1666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 52,
               "Title": "ImgType.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Enums\\ImgType.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Enums\\ImgType.cs",
@@ -1736,7 +1678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 54,
               "Title": "RoomType.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Entities\\RoomType.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Entities\\RoomType.cs",
@@ -1748,7 +1690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 55,
               "Title": "RoomAmenity.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Entities\\RoomAmenity.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Entities\\RoomAmenity.cs",
@@ -1760,7 +1702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 56,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Entities\\Room.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Entities\\Room.cs",
@@ -1772,7 +1714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 57,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Entities\\Review.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Entities\\Review.cs",
@@ -1784,7 +1726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 58,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Entities\\Person.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Entities\\Person.cs",
@@ -1796,7 +1738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 53,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Entities\\User.cs",
@@ -1808,7 +1750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 59,
               "Title": "Owner.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Entities\\Owner.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Entities\\Owner.cs",
@@ -1820,7 +1762,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 60,
               "Title": "Hotel.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Entities\\Hotel.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Entities\\Hotel.cs",
@@ -1832,7 +1774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 61,
               "Title": "Discount.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Entities\\Discount.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Entities\\Discount.cs",
@@ -1844,7 +1786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 62,
               "Title": "BookingQueryDto.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\DTOs\\BookingDtos\\BookingQueryDto.cs",
               "RelativeDocumentMoniker": "TABP.Application\\DTOs\\BookingDtos\\BookingQueryDto.cs",
@@ -1856,7 +1798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 63,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\Entities\\City.cs",
               "RelativeDocumentMoniker": "TABP.Domain\\Entities\\City.cs",
@@ -1868,7 +1810,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 64,
               "Title": "TABP.Domain.csproj",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Domain\\TABP.Domain.csproj",
               "RelativeDocumentMoniker": "TABP.Domain\\TABP.Domain.csproj",
@@ -1880,7 +1822,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 65,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "TABP.API\\Controllers\\WeatherForecastController.cs",
@@ -1892,7 +1834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 67,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Infrastructure\\Program.cs",
               "RelativeDocumentMoniker": "TABP.Infrastructure\\Program.cs",
@@ -1904,7 +1846,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 66,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Users\\Abdullah Jamal\\Desktop\\T4\\travel-and-accommodation-booking-platform\\TravelAccommodationBookingPlatform.Domain\\Entities\\City.cs",
               "RelativeDocumentMoniker": "..\\Users\\Abdullah Jamal\\Desktop\\T4\\travel-and-accommodation-booking-platform\\TravelAccommodationBookingPlatform.Domain\\Entities\\City.cs",
@@ -1916,7 +1858,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 68,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.API\\appsettings.json",
               "RelativeDocumentMoniker": "TABP.API\\appsettings.json",
@@ -1928,7 +1870,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 69,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.API\\Program.cs",
               "RelativeDocumentMoniker": "TABP.API\\Program.cs",
@@ -1940,7 +1882,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 71,
               "Title": "HotelNoRoomsDto.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\DTOs\\HotelDtos\\HotelNoRoomsDto.cs",
               "RelativeDocumentMoniker": "TABP.Application\\DTOs\\HotelDtos\\HotelNoRoomsDto.cs",
@@ -1952,7 +1894,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 72,
               "Title": "HotelCreationDto.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\DTOs\\HotelDtos\\HotelCreationDto.cs",
               "RelativeDocumentMoniker": "TABP.Application\\DTOs\\HotelDtos\\HotelCreationDto.cs",
@@ -1964,7 +1906,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 70,
               "Title": "HotelDto.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\DTOs\\HotelDtos\\HotelDto.cs",
               "RelativeDocumentMoniker": "TABP.Application\\DTOs\\HotelDtos\\HotelDto.cs",
@@ -1976,7 +1918,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 73,
               "Title": "CityDto.cs",
               "DocumentMoniker": "C:\\Travel-and-Accommodation-Booking-Platform\\TABP.Application\\DTOs\\CityDtos\\CityDto.cs",
               "RelativeDocumentMoniker": "TABP.Application\\DTOs\\CityDtos\\CityDto.cs",

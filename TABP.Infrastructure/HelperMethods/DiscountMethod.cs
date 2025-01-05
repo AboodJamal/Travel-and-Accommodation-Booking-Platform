@@ -4,9 +4,9 @@ namespace Infrastructure.HelperMethods.DiscountMethod;
 
 public static class DiscountMethod
 {
-    public static float GetDiscount(IEnumerable<Discount> roomType)
+    public static float GetDiscount(IEnumerable<Discount> Discounts)
     {
-        return roomType
+        return Discounts
             .FirstOrDefault(discount =>
                 discount.FromDate.Date <= DateTime.Today.Date && 
                 discount.ToDate.Date >= DateTime.Today.Date)

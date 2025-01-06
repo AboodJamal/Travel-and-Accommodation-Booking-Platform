@@ -7,7 +7,7 @@ using AutoMapper;
 using Infrastructure.ExtraModels;
 using TABP.Domain.Entities;
 
-namespace Application.Profiles;
+namespace TABP.Application.ApplicationServices.ProfileMappers;
 
 public class HotelProfileMapper : Profile
 {

@@ -5,14 +5,14 @@ using AutoMapper;
 using Infrastructure.ExtraModels;
 using TABP.Domain.Entities;
 
-namespace Application.Profiles;
+namespace TABP.Application.ApplicationServices.ProfileMappers;
 
 public class BookingProfileMapper : Profile
 {
     public BookingProfileMapper()
     {
         CreateMap<Booking, BookingDto>();
-        CreateMap<Invoice, InvoiceDto>(); 
+        CreateMap<Invoice, InvoiceDto>();
         CreateMap<BookingQueryDto, GetBookingsByHotelIdQuery>();
         CreateMap<ReserveRoomDto, BookRoomCommand>();
         CreateMap<BookRoomCommand, Booking>();

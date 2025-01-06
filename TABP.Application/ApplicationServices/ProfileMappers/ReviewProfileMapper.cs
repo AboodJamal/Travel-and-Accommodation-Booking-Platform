@@ -4,7 +4,7 @@ using Application.Queries.ReviewQueries;
 using AutoMapper;
 using TABP.Domain.Entities;
 
-namespace Application.Profiles;
+namespace TABP.Application.ApplicationServices.ProfileMappers;
 
 public class ReviewProfileMapper : Profile
 {

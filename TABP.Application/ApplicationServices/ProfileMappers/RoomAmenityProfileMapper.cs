@@ -3,7 +3,7 @@ using TABP.Application.DTOs.RoomAmenityDtos;
 using AutoMapper;
 using TABP.Domain.Entities;
 
-namespace Application.Profiles;
+namespace TABP.Application.ApplicationServices.ProfileMappers;
 
 public class RoomAmenityProfileMapper : Profile
 {

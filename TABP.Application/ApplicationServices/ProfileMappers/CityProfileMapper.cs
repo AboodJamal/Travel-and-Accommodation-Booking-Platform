@@ -3,14 +3,14 @@ using TABP.Application.DTOs.CityDtos;
 using AutoMapper;
 using TABP.Domain.Entities;
 
-namespace Application.Profiles;
+namespace TABP.Application.ApplicationServices.ProfileMappers;
 
 public class CityProfileMapper : Profile
 {
     public CityProfileMapper()
     {
-        CreateMap<City, CityDto>().ForMember (cityDto => 
-        cityDto.Hotels,opt => opt.MapFrom(city => city.Hotels));
+        CreateMap<City, CityDto>().ForMember(cityDto =>
+        cityDto.Hotels, opt => opt.MapFrom(city => city.Hotels));
         CreateMap<CityDto, CityNoHotelsDto>();
         CreateMap<City, CityNoHotelsDto>();
         CreateMap<CityDto, CityUpdateDto>();

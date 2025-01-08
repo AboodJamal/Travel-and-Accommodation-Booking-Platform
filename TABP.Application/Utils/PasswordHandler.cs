@@ -30,7 +30,7 @@ public class PasswordHandler : PasswordHandlerInterface
         return salt;
     }
 
-    public string? GenerateHashedPassword(string password, byte[] salt)
+    public string? GenerateHashedPassword(string password, byte[] saltValue)
     {
         if (string.IsNullOrEmpty(password))
         {
@@ -46,7 +46,7 @@ public class PasswordHandler : PasswordHandlerInterface
                 TimeCost = _timeCost, 
                 Threads = Environment.ProcessorCount,
                 Password = passwordBytes,
-                Salt = salt,
+                Salt = saltValue,
                 Secret = Encoding.UTF8.GetBytes(_secret), 
                 HashLength = _hashLength 
             };
@@ -60,6 +60,18 @@ public class PasswordHandler : PasswordHandlerInterface
         catch (InvalidOperationException)
         {
             return null;
+        }
+    }
+
+    public bool VerifyUserPassword(string password, string hashedPassword, byte[] saltValue)
+    {
+        try
+        {
+            return hashedPassword.Equals(GenerateHashedPassword(password, saltValue));
+        }
+        catch (Exception)
+        {
+            return false;
         }
     }
 }

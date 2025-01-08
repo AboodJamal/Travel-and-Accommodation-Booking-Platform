@@ -1,29 +1,28 @@
-﻿using Application.DTOs.HotelDtos;
+﻿using TABP.Application.DTOs.HotelDtos;
 using Application.Queries.UserQueries;
 using AutoMapper;
-using Domain.Common.Interfaces;
+using Infrastructure.Interfaces;
 using MediatR;
 
 namespace Application.Handlers.UserHandlers;
 
-public class GetRecentlyVisitedHotelsForAuthenticatedGuestQueryHandler :
-    IRequestHandler<GetRecentlyVisitedHotelsForAuthenticatedGuestQuery, List<HotelWithoutRoomsDto>>
+public class GetRecentlyVisitedHotelsForAuthenticatedGuestQueryHandler :IRequestHandler<GetRecentlyVisitedHotelsForAuthenticatedGuestQuery, List<HotelNoRoomsDto>>
 {
-    private readonly IUserRepository _userRepository;
+    private readonly UserRepositoryInterface _userRepository;
     private readonly IMapper _mapper;
 
-    public GetRecentlyVisitedHotelsForAuthenticatedGuestQueryHandler(IUserRepository userRepository, IMapper mapper)
+    public GetRecentlyVisitedHotelsForAuthenticatedGuestQueryHandler(UserRepositoryInterface userRepository, IMapper mapper)
     {
         _userRepository = userRepository;
         _mapper = mapper;
     }
 
-    public async Task<List<HotelWithoutRoomsDto>> Handle(GetRecentlyVisitedHotelsForAuthenticatedGuestQuery request,
+    public async Task<List<HotelNoRoomsDto>> Handle(GetRecentlyVisitedHotelsForAuthenticatedGuestQuery request,
         CancellationToken cancellationToken)
     {
-        return _mapper.Map<List<HotelWithoutRoomsDto>>
+        return _mapper.Map<List<HotelNoRoomsDto>>
         (await _userRepository
-        .GetRecentlyVisitedHotelsForAuthenticatedGuestAsync
+        .GetRecentlyVisitedHotelsForSpecificAuthenticatedGuestAsync
         (request.Email, request.Count));
     }
 }

@@ -1,35 +1,35 @@
-﻿using Application.DTOs.HotelDtos;
+﻿using TABP.Application.DTOs.HotelDtos;
 using Application.Queries.UserQueries;
 using AutoMapper;
-using Domain.Common.Interfaces;
-using Domain.Exceptions;
+using Infrastructure.Interfaces;
+using Infrastructure.Exceptions;
 using MediatR;
 
 namespace Application.Handlers.UserHandlers;
 
 public class GetRecentlyVisitedHotelsForGuestQueryHandler :
-    IRequestHandler<GetRecentlyVisitedHotelsForGuestQuery, List<HotelWithoutRoomsDto>>
+    IRequestHandler<GetRecentlyVisitedHotelsForGuestQuery, List<HotelNoRoomsDto>>
 {
-    private readonly IUserRepository _userRepository;
+    private readonly UserRepositoryInterface _userRepository;
     private readonly IMapper _mapper;
 
-    public GetRecentlyVisitedHotelsForGuestQueryHandler(IUserRepository userRepository, IMapper mapper)
+    public GetRecentlyVisitedHotelsForGuestQueryHandler(UserRepositoryInterface userRepository, IMapper mapper)
     {
         _userRepository = userRepository;
         _mapper = mapper;
     }
 
-    public async Task<List<HotelWithoutRoomsDto>> Handle(GetRecentlyVisitedHotelsForGuestQuery request,
+    public async Task<List<HotelNoRoomsDto>> Handle(GetRecentlyVisitedHotelsForGuestQuery request,
         CancellationToken cancellationToken)
     {
-        if (!await _userRepository.IsExistsAsync(request.GuestId))
+        if (!await _userRepository.IsExistAsync(request.GuestId))
         {
             throw new NotFoundException($"User With ID {request.GuestId} Doesn't Exists.");
         }
         
-        return _mapper.Map<List<HotelWithoutRoomsDto>>
+        return _mapper.Map<List<HotelNoRoomsDto>>
         (await _userRepository
-        .GetRecentlyVisitedHotelsForGuestAsync
+        .GetRecentlyVisitedHotelsForSpecificGuestAsync
         (request.GuestId, request.Count));
     }
 }

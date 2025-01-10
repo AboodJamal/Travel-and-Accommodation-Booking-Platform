@@ -4,7 +4,7 @@ using Infrastructure.Interfaces;
 using TABP.Domain.Entities;
 using Domain.Enums;
 using MediatR;
-using TABP.Application.Utils;
+using TABP.Hashing.PasswordUtils;
 namespace Application.Handlers.UserHandlers;
 
 public class CreateUserCommandHandler : IRequestHandler<CreateUserCommand>

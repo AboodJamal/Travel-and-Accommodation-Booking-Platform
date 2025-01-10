@@ -21,6 +21,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
     <PackageReference Include="MimeKit" Version="4.9.0" />
 	<ProjectReference Include="..\TABP.Domain\TABP.Domain.csproj" />
+	<ProjectReference Include="..\TABP.Hashing\TABP.Hashing.csproj" />
   </ItemGroup>
 
 </Project>

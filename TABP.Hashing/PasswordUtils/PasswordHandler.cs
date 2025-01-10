@@ -3,7 +3,7 @@ using System.Text;
 using Isopoh.Cryptography.Argon2;
 using Microsoft.Extensions.Configuration;
 
-namespace TABP.Application.Utils;
+namespace TABP.Hashing.PasswordUtils;
 
 public class PasswordHandler : PasswordHandlerInterface
 {

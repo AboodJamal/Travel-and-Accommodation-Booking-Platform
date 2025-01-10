@@ -19,6 +19,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
 	<ProjectReference Include="..\TABP.Infrastructure\TABP.Infrastructure.csproj" />
+	<ProjectReference Include="..\TABP.Application\TABP.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,4 +1,4 @@
-﻿namespace TABP.Application.Utils;
+﻿namespace TABP.Hashing.PasswordUtils;
 
 public interface PasswordHandlerInterface
 {

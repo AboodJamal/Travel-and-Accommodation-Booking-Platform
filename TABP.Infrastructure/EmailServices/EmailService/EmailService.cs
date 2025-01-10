@@ -15,11 +15,11 @@ namespace TABP.Infrastructure.EmailServices.EmailService
             _configuration = configuration;
             smptpDetails = new SmtpSettings
             {
-                From = _configuration["EmailConfiguration:From"]!,
-                SmtpServer = _configuration["EmailConfiguration:SmtpServer"]!,
-                UserName = _configuration["EmailConfiguration:UserName"]!,
-                Port = int.Parse(_configuration["EmailConfiguration:Port"]!),
-                Password = _configuration["EmailConfiguration:Password"]!
+                From = _configuration["EmailConfigurationFrom"]!,
+                SmtpServer = _configuration["EmailConfigurationSmtpServer"]!,
+                UserName = _configuration["EmailConfigurationUserName"]!,
+                Port = int.Parse(_configuration["EmailConfigurationPort"]!),
+                Password = _configuration["EmailConfigurationPassword"]!
             };
 
             _emailServiceMethods = new EmailServiceMethods(smptpDetails);

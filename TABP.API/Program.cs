@@ -23,6 +23,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+builder.Services.AddApplicationServices().AddInfrastructure();
+
 app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();

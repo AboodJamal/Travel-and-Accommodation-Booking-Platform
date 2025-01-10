@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using TABP.Application.ApplicationServices;
+using TABP.Infrastructure.InfrastructureServices;
 using Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -23,7 +25,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-builder.Services.AddApplicationServices().AddInfrastructure();
+builder.Services.AddApplicationServices().AddInfrastructureServices();
 
 app.UseHttpsRedirection();
 app.UseAuthorization();

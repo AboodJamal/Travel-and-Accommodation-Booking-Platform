@@ -2,19 +2,48 @@ using Microsoft.EntityFrameworkCore;
 using TABP.Application.ApplicationServices;
 using TABP.Infrastructure.InfrastructureServices;
 using Infrastructure;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllers();
+
+// Add authorization services before building the application
+builder.Services.AddAuthorization(options =>
+    options.AddPolicy("IsAdmin", policy =>
+    {
+        policy.RequireAuthenticatedUser();
+        policy.RequireClaim("Role", "Admin");
+    }));
+
+// Add authentication services
+builder.Services.AddAuthentication("Bearer").AddJwtBearer(
+    options =>
+    {
+        options.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuer = true,
+            ValidateAudience = true,
+            ValidateIssuerSigningKey = true,
+            ValidIssuer = builder.Configuration["JWTAuthenticationSettings:Issuer"],
+            ValidAudience = builder.Configuration["JWTAuthenticationSettings:Audience"],
+            IssuerSigningKey =
+                new SymmetricSecurityKey(Encoding.ASCII.GetBytes(builder.Configuration["JWTAuthenticationSettings:SecretForKey"]))
+        };
+    });
 
 // Configure DbContext with SQL Server (or your database provider)
 builder.Services.AddDbContext<InfrastructureDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Add other services (Swagger, API Explorer, etc.)
+builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// Register custom services
+builder.Services.AddApplicationServices().AddInfrastructureServices();
 
 var app = builder.Build();
 
@@ -25,10 +54,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-builder.Services.AddApplicationServices().AddInfrastructureServices();
-
 app.UseHttpsRedirection();
+
+// Authentication and Authorization middleware
+app.UseAuthentication();
 app.UseAuthorization();
+
 app.MapControllers();
 
 app.Run();

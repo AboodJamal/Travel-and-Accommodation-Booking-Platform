@@ -15,7 +15,6 @@ public class CityProfileMapper : Profile
         CreateMap<City, CityNoHotelsDto>();
         CreateMap<CityDto, CityUpdateDto>();
         CreateMap<CityCreationDto, CreateCityCommand>();
-        CreateMap<CityUpdateDto, UpdateCityCommand>();
         CreateMap<UpdateCityCommand, City>();
         CreateMap<CreateCityCommand, City>();
     }

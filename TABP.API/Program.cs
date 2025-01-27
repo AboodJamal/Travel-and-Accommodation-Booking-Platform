@@ -4,6 +4,9 @@ using TABP.Infrastructure.InfrastructureServices;
 using Infrastructure;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using Infrastructure.ImageServices;
+using TABP.API.Extra;
+using TABP.Infrastructure.EmailServices.EmailService;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -38,14 +41,23 @@ builder.Services.AddDbContext<InfrastructureDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Add other services (Swagger, API Explorer, etc.)
-builder.Services.AddControllers();
+builder.Services.AddControllers(options =>
+{
+    options.ReturnHttpNotAcceptable = false;
+}).AddNewtonsoftJson();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<ImageServiceInterface, CloudinaryImageService>();
+builder.Services.AddScoped<GuestHelperMethods>();
+//builder.Services.AddScoped<EmailServiceMethods>();
+
 
 // Register custom services
 builder.Services.AddApplicationServices().AddInfrastructureServices();
 
 var app = builder.Build();
+
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

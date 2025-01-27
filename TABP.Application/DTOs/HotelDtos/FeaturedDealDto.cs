@@ -6,8 +6,8 @@ public record FeaturedDealDto
     public Guid HotelId { get; set; }
     public string HotelName { get; set; }
     public float HotelRating { get; set; }
-    public Guid ClassId { get; set; }
-    public float RoomPrice { get; set; }
-    public float DiscountPercentage { get; set; }
-    public float RoomFinalPrice { get; set; }
+    public Guid RoomClassId { get; set; }
+    public float BaseRoomPrice { get; set; }
+    public float Discount { get; set; }
+    public float FinalRoomPrice { get; set; }
 }

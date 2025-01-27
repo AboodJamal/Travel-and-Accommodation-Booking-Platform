@@ -3,6 +3,6 @@
 public record ReviewCreationDto
 {
     public Guid BookingId { get; set; }
-    public string ReviewComment { get; set; }
-    public float ReviewRating { get; set; } = -1;
+    public string Comment { get; set; }
+    public float Rating { get; set; } = -1;
 }

@@ -4,8 +4,7 @@ namespace Infrastructure.Interfaces;
 
 public interface RoomAmenityRepositoryInterface
 {
-    public Task<PaginatedList<RoomAmenity>>
-    GetAllAsync(string? searchQuery, int pageNumber, int pageSize);
+    public Task<PaginatedList<RoomAmenity>>GetAllAsync(string? searchQuery, int pageNumber, int pageSize);
     public Task<RoomAmenity?> GetByIdAsync(Guid amenityId);
     public Task<RoomAmenity?> InsertAsync(RoomAmenity roomAmenity);
     public Task UpdateAsync(RoomAmenity roomAmenity);

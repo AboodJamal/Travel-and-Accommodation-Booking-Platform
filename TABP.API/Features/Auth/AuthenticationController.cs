@@ -5,11 +5,11 @@ using Infrastructure.ExtraModels;
 using TABP.Infrastructure.Authentication.Generators;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using TAABP.API.Validators.AuthValidators;
+using TAABP.API.Features.Auth.AuthValidators;
 using Infrastructure.Authentication;
 
 
-namespace TAABP.API.Controllers;
+namespace TAABP.API.Features.Auth;
 
 [ApiController]
 [Route("api/authentication")]

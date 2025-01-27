@@ -12,7 +12,8 @@ public class EmailMessageDetails
 
     public EmailMessageDetails(IEnumerable<string> to, string subject, string content)
     {
-        To = to.Select(email => new MailboxAddress("Recipient", email)).ToList();
+        To = new List<MailboxAddress>();
+        To.AddRange(to.Select(email => new MailboxAddress("email", email)));
         Subject = subject;
         Content = content;
     }

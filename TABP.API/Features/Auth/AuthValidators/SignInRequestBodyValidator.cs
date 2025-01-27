@@ -2,7 +2,7 @@
 using Infrastructure.Authentication;
 using TABP.API.Extra;
 
-namespace TAABP.API.Validators.AuthValidators;
+namespace TAABP.API.Features.Auth.AuthValidators;
 
 public class SignInRequestBodyValidator : GenericValidator<AuthenticationRequestBody>
 {

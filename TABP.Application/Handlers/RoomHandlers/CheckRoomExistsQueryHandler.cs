@@ -4,16 +4,16 @@ using MediatR;
 
 namespace Application.Handlers.RoomHandlers;
 
-public class CheckRoomExistsQueryHandler : IRequestHandler<CheckRoomExistsQuery, bool>
+public class CheckIfRoomExistsQueryHandler : IRequestHandler<CheckIfRoomExistsQuery, bool>
 {
     private readonly RoomRepositoryInterface _roomRepository;
 
-    public CheckRoomExistsQueryHandler(RoomRepositoryInterface roomRepository)
+    public CheckIfRoomExistsQueryHandler(RoomRepositoryInterface roomRepository)
     {
         _roomRepository = roomRepository;
     }
 
-    public async Task<bool> Handle(CheckRoomExistsQuery request, CancellationToken cancellationToken)
+    public async Task<bool> Handle(CheckIfRoomExistsQuery request, CancellationToken cancellationToken)
     {
         return await _roomRepository.IsExistAsync(request.Id);
     }

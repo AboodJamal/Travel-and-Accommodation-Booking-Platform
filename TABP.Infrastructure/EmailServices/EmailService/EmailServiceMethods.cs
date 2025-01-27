@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using TABP.Infrastructure.EmailServices.EmailService;
 using Infrastructure.EmailServices;
 
-namespace TABP.Infrastructure.EmailServices
+namespace TABP.Infrastructure.EmailServices.EmailService
 {
     public class EmailServiceMethods
     {

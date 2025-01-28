@@ -190,7 +190,7 @@ We welcome contributions to improve this project! Here’s how you can help:
 For questions, feedback, or support, feel free to reach out:
 
 - **Email**: abood.jamal005@gmail.com
-- **GitHub**: [Your GitHub Profile](https://github.com/AboodJamal)
+- **GitHub**: [My GitHub Profile](https://github.com/AboodJamal)
 
 Thank you for exploring the **Travel and Accommodation Booking Platform API**! We hope this tool empowers your travel and hospitality solutions. Let’s build something amazing together! 🚀
 

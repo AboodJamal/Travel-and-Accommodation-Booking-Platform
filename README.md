@@ -1,7 +1,12 @@
 # Travel and Accommodation Booking Platform 
 
 Welcome to the **Travel and Accommodation Booking Platform API**, a robust and scalable solution designed to streamline hotel bookings, manage city and hotel information, and enhance guest experiences. This API is built with modern development practices, ensuring flexibility, security, and ease of use for both developers and end-users.
+---
+## Entity Relationship Diagram (ERD)
 
+The following diagram illustrates the relationships and structure of the core entities within the platform:
+
+![Entity Relationship Diagram](./assets/ERD.png)
 ---
 
 ## Core Features

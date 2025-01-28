@@ -41,7 +41,7 @@ Welcome to the **Travel and Accommodation Booking Platform API**, a robust and s
 |-------------|------------------------------------------|-------------------------------------|
 | GET         | /api/home/destinations/trendingCities    | Retrieve trending cities.          |
 | GET         | /api/home/search                        | Search for hotels by query.        |
-| GET         | /api/home/featured-deals                | Fetch featured hotel deals.        |
+| GET         | /api/home/featuredDeals                | Fetch featured hotel deals.        |
 
 ### Cities
 | HTTP Method | Endpoint                               | Description                                   |

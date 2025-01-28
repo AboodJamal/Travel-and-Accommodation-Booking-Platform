@@ -1,192 +1,196 @@
-# Travel and Accommodation Booking Platform
+# Travel and Accommodation Booking Platform API
 
-This project is a comprehensive online Travel and Accommodation Booking Platform. The platform allows users to browse, search, and book hotels, with features for secure payments, detailed hotel information, and admin management functionalities. Below is the full documentation to guide you through the project's setup, development, and usage.
-
----
-
-## **Project Features**
-
-### **1. User Features**
-
-- **Login Page**:
-  - Allows user login with a username and password.
-- **Home Page**:
-  - Central search bar for finding hotels by location and dates.
-  - "Featured Deals" section highlighting special offers.
-  - "Recently Visited Hotels" showing personalized recommendations.
-  - "Trending Destinations" showcasing the most-visited cities.
-- **Search Results Page**:
-  - Filters for price range, star rating, and amenities.
-  - Infinite scroll of hotel listings with brief descriptions and prices.
-- **Hotel Details Page**:
-  - High-quality image gallery.
-  - Detailed hotel information including reviews and nearby attractions.
-  - Room availability and "Add to cart" functionality.
-- **Secure Checkout**:
-  - User and payment information form.
-  - Booking confirmation details and email notifications.
-
-### **2. Admin Features**
-
-- **Admin Dashboard**:
-  - Manage cities, hotels, and rooms with CRUD operations.
-  - Functional search bar and detailed grids for data visualization.
-- **Entity Forms**:
-  - Forms for creating and updating cities, hotels, and rooms.
+Welcome to the **Travel and Accommodation Booking Platform API**, a robust and scalable solution designed to streamline hotel bookings, manage city and hotel information, and enhance guest experiences. This API is built with modern development practices, ensuring flexibility, security, and ease of use for both developers and end-users.
 
 ---
 
-## **Technical Requirements**
+## Core Features
 
-### **1. API Design**
+### 1. Seamless User Experience
+- **User Registration & Login**: Secure and straightforward account creation and authentication for guests.
+- **Personalized Guest Services**: Tailored features like booking history, recently visited hotels, and invoice management.
 
-- RESTful API principles with clean, well-documented endpoints.
-- Robust error handling and logging.
+### 2. Advanced Search Capabilities
+- **Flexible Hotel Search**: Find hotels by name, room type, price range, or other customizable criteria.
+- **Detailed Search Results**: Get comprehensive information about hotels, including amenities, room availability, and pricing.
 
-### **2. Authentication**
+### 3. Dynamic Content Management
+- **Image & Thumbnail Management**: Easily upload, update, or delete images for cities and hotels.
+- **Popular Destinations**: Discover trending cities based on user activity and preferences.
 
-- Secure JSON Web Token (JWT) authentication.
-- Role-based access control (RBAC) for admin and user functionalities.
+### 4. Automated Communication
+- **Email Notifications**: Send booking confirmations, invoices, and updates directly to users.
+- **Invoice Generation**: Automatically generate and email detailed invoices with booking information, pricing, and hotel details.
 
-### **3. Testing**
-
-- Unit and integration tests for API endpoints.
-- Edge case validation and automated test coverage.
-
-### **4. Deployment**
-
-- Containerized with Docker for consistent environments.
-- CI/CD pipelines for automated testing and deployment.
-- Deployable on cloud platforms like AWS, Azure, or GCP.
+### 5. Admin Control Panel
+- **Full Entity Management**: Admins can add, update, or delete cities, hotels, rooms, and other entities.
+- **Streamlined Operations**: A user-friendly interface simplifies administrative tasks and system maintenance.
 
 ---
 
-## **Setup Instructions**
+## API Endpoints Overview
 
-### **1. Prerequisites**
+### Authentication
+| HTTP Method | Endpoint                         | Description                           |
+|-------------|----------------------------------|---------------------------------------|
+| POST        | /api/authentication/sign-in     | Authenticate and log in a user.       |
+| POST        | /api/authentication/sign-up     | Register a new guest account.         |
 
-- Install the following tools:
-  - Visual Studio with ASP.NET Core framework.
-  - SQL Server or any preferred relational database.
-  - Docker (optional for containerization).
-  - Postman (optional for API testing).
+### Home
+| HTTP Method | Endpoint                                 | Description                         |
+|-------------|------------------------------------------|-------------------------------------|
+| GET         | /api/home/destinations/trendingCities    | Retrieve trending cities.          |
+| GET         | /api/home/search                        | Search for hotels by query.        |
+| GET         | /api/home/featured-deals                | Fetch featured hotel deals.        |
 
-### **2. Clone the Repository**
+### Cities
+| HTTP Method | Endpoint                               | Description                                   |
+|-------------|----------------------------------------|-----------------------------------------------|
+| GET         | /api/cities                           | Retrieve a list of cities.                   |
+| POST        | /api/cities                           | Add a new city.                              |
+| GET         | /api/cities/{cityId}                  | Fetch details for a specific city.           |
+| DELETE      | /api/cities/{cityId}                  | Delete a city by ID.                         |
+| PUT         | /api/cities/{cityId}                  | Update city details.                         |
+| PATCH       | /api/cities/{cityId}                  | Partially update city details.               |
+| POST        | /api/cities/{cityId}/gallery          | Add images to city gallery.                  |
+| GET         | /api/cities/{cityId}/photos           | Fetch city photos.                           |
+| PUT         | /api/cities/{cityId}/thumbnail        | Update city thumbnail.                       |
+| DELETE      | /api/cities/{cityId}/photos/{photoId} | Delete a city photo.                         |
 
+### Hotels
+| HTTP Method | Endpoint                                  | Description                                    |
+|-------------|-------------------------------------------|------------------------------------------------|
+| GET         | /api/hotels                              | Retrieve all hotels.                          |
+| POST        | /api/hotels                              | Add a new hotel.                              |
+| GET         | /api/hotels/{hotelId}                   | Fetch details for a specific hotel.           |
+| DELETE      | /api/hotels/{hotelId}                   | Delete a hotel by ID.                         |
+| PUT         | /api/hotels/{hotelId}                   | Update hotel details.                         |
+| GET         | /api/hotels/{hotelId}/availableRooms    | Fetch available rooms in a hotel.             |
+| GET         | /api/hotels/{hotelId}/photos           | Fetch hotel photos.                           |
+| POST        | /api/hotels/{hotelId}/gallery          | Add images to hotel gallery.                  |
+| PUT         | /api/hotels/{hotelId}/thumbnail        | Update hotel thumbnail.                       |
+| DELETE      | /api/hotels/{hotelId}/photos/{photoId} | Delete a hotel photo.                         |
+| GET         | /api/hotels/{hotelId}/rooms            | Fetch rooms in a hotel.                       |
+| POST        | /api/hotels/{hotelId}/rooms            | Add a room to a hotel.                        |
+| GET         | /api/hotels/{hotelId}/rooms/{roomId}   | Fetch details of a specific room.             |
+| GET         | /api/hotels/{hotelId}/roomTypes        | Fetch room types in a hotel.                  |
+| GET         | /api/hotels/{hotelId}/bookings         | Fetch bookings for a hotel.                   |
+
+### Guests
+| HTTP Method | Endpoint                                          | Description                                    |
+|-------------|---------------------------------------------------|------------------------------------------------|
+| GET         | /api/guests/{guestId}/recentlyvisitedhotels       | Fetch recently visited hotels by a guest.     |
+| GET         | /api/guests/recentlyvisitedhotels                 | Fetch recently visited hotels.                |
+| GET         | /api/guests/bookings                             | Retrieve bookings for a guest.                |
+| POST        | /api/guests/bookings                             | Reserve a room.                               |
+| DELETE      | /api/guests/bookings/{bookingId}                 | Cancel a booking.                             |
+| GET         | /api/guests/bookings/{bookingId}/invoice         | Fetch booking invoice.                        |
+
+### Reviews
+| HTTP Method | Endpoint                        | Description                        |
+|-------------|---------------------------------|------------------------------------|
+| GET         | /api/reviews/hotels/{hotelId}  | Fetch reviews for a hotel.        |
+| POST        | /api/reviews                   | Add a new review.                 |
+
+### Room Amenities
+| HTTP Method | Endpoint                        | Description                        |
+|-------------|---------------------------------|------------------------------------|
+| GET         | /api/roomAmenities             | Fetch all room amenities.         |
+| POST        | /api/roomAmenities             | Add a new room amenity.           |
+| GET         | /api/roomAmenities/{amenityId} | Fetch details of a specific amenity. |
+| DELETE      | /api/roomAmenities/{amenityId} | Delete a room amenity.            |
+| PUT         | /api/roomAmenities/{amenityId} | Update a room amenity.            |
+
+### Room Types
+| HTTP Method | Endpoint                                  | Description                        |
+|-------------|-------------------------------------------|------------------------------------|
+| GET         | /api/roomTypes/{roomTypeId}/discounts    | Fetch discounts for a room type. |
+| GET         | /api/roomTypes/discounts/{discountId}    | Fetch details of a specific discount. |
+| DELETE      | /api/roomTypes/discounts/{discountId}    | Delete a discount.                |
+| POST        | /api/roomTypes/discounts                | Add a new discount.               |
+
+---
+
+## Technology Stack
+
+- **Backend**
+  - **C#**: Primary programming language.
+  - **ASP.NET Core**: Framework for building high-performance APIs.
+  - **Entity Framework Core**: ORM for database interactions.
+  - **SQL Server**: Relational database for data storage.
+
+- **Image Storage**
+  - **Cloudinary Storage**: Scalable cloud storage for images and thumbnails.
+
+- **API Documentation**
+  - **Swagger/OpenAPI**: For API specification and interactive documentation.
+
+- **Security**
+  - **JWT (JSON Web Tokens)**: Secure authentication and authorization.
+  - **HTTPS**: Encrypted communication.
+  - **Argon2**: Password hashing for enhanced security.
+
+- **Architecture**
+  - **Clean Architecture**: Separation of concerns for maintainability.
+  - **CQRS Pattern**: Optimized handling of read and write operations.
+
+---
+
+## Getting Started
+
+### Prerequisites
+- **.NET 8 SDK** installed.
+- **SQL Server** instance with a database.
+
+### Setup Instructions
+
+1. **Clone the Repository**:
 ```bash
-git clone <repository_url>
-cd travel-booking-platform
+git clone https://github.com/your-repo/Travel-And-Accommodation-Booking-Platform.git
 ```
 
-### **3. Configure the Environment**
+2. **Navigate to the Project Directory**:
+```bash
+cd Travel-And-Accommodation-Booking-Platform/API
+```
 
-- Create a `.env` file with the following variables:
-  ```env
-  DB_CONNECTION_STRING=your_database_connection_string
-  JWT_SECRET=your_jwt_secret_key
-  ```
+3. **Configure `appsettings.json`**:
+Update the connection string with your SQL Server details:
+```json
+{
+  "ConnectionStrings": {
+    "TAABPCoreDb": "<your_connection_string>"
+  }
+}
+```
 
-### **4. Database Setup**
+4. **Run the API**:
+```bash
+dotnet run
+```
 
-- Run the provided migrations to set up the database schema:
-  ```bash
-  dotnet ef database update
-  ```
-
-### **5. Run the Application**
-
-- Start the server:
-  ```bash
-  dotnet run
-  ```
-- Access the application at `http://localhost:5000`.
-
----
-
-## **API Documentation**
-
-### **1. Authentication Endpoints**
-
-- **POST /api/auth/register**:
-  - Registers a new user.
-- **POST /api/auth/login**:
-  - Authenticates the user and returns a JWT.
-
-### **2. User Endpoints**
-
-- **GET /api/hotels**:
-  - Retrieves a list of hotels.
-- **GET /api/hotels/{id}**:
-  - Retrieves detailed information about a specific hotel.
-- **POST /api/booking**:
-  - Creates a new booking for a user.
-
-### **3. Admin Endpoints**
-
-- **GET /api/admin/hotels**:
-  - Retrieves all hotels (admin access required).
-- **POST /api/admin/hotels**:
-  - Creates a new hotel.
-- **PUT /api/admin/hotels/{id}**:
-  - Updates an existing hotel.
-- **DELETE /api/admin/hotels/{id}**:
-  - Deletes a hotel.
+5. **Access the API**:
+   - **Swagger UI**: [https://localhost:7056/swagger](https://localhost:7056/swagger)
+   - **API Base URL**: [https://localhost:7056](https://localhost:7056)
 
 ---
 
-## **Testing**
+## Contribution Guidelines
 
-### **1. Unit Tests**
+We welcome contributions to improve this project! Here’s how you can help:
 
-- Ensure each API endpoint has a corresponding unit test.
-- Use tools like xUnit or NUnit for testing in .NET.
-
-### **2. Integration Tests**
-
-- Validate end-to-end API flows using tools like Postman or Swagger.
-
-### **3. Performance Testing**
-
-- Use tools like JMeter to test the scalability of the APIs under load.
+1. **Report Issues**: Found a bug? Let us know on GitHub.
+2. **Suggest Features**: Have an idea? Share it with us.
+3. **Code Contributions**: Submit pull requests for new features or fixes.
 
 ---
 
-## **Deployment**
+## Contact & Support
 
-### **1. Dockerize the Application**
+For questions, feedback, or support, feel free to reach out:
 
-- Build the Docker image:
-  ```bash
-  docker build -t travel-booking-platform .
-  ```
-- Run the container:
-  ```bash
-  docker run -p 5000:5000 travel-booking-platform
-  ```
+- **Email**: abood.jamal005@gmail.com
+- **GitHub**: [Your GitHub Profile](https://github.com/AboodJamal)
 
-### **2. Set Up CI/CD**
+Thank you for exploring the **Travel and Accommodation Booking Platform API**! We hope this tool empowers your travel and hospitality solutions. Let’s build something amazing together! 🚀
 
-- Use GitHub Actions or Azure DevOps for automating tests and deployments.
-
-### **3. Deploy to Cloud**
-
-- Configure the deployment on AWS, Azure, or GCP using their respective services.
-- Ensure proper environment variables are set in the production environment.
-
----
-
-## **Future Improvements**
-
-- Implement refresh tokens for long-lived sessions.
-- Add real-time notifications for bookings.
-- Integrate third-party APIs for payment and travel recommendations.
-- Enhance search functionality with AI-powered recommendations.
-
----
-
-## **Contributors**
-
-- Abdullah jamal
-- Supervisors : Hiba Khalifa - Basel Alsayed
-
-For more information, feel free to contact the project team!

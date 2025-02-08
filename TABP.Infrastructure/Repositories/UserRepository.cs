@@ -17,7 +17,7 @@ public class UserRepository : UserRepositoryInterface
         _logger = logger;
     }
 
-    public async Task<Guid> GetGuestIdByEmailAsync(string email)
+    public async Task<Guid?> GetGuestIdByEmailAsync(string email)
     {
         return (await _context
             .Users
@@ -88,7 +88,7 @@ public class UserRepository : UserRepositoryInterface
         await SaveChangesAsync();
     }
 
-    public async Task<List<Hotel>> GetRecentlyVisitedHotelsForSpecificGuestAsync(Guid guestId, int count)
+    public async Task<List<Hotel>> GetRecentlyVisitedHotelsForSpecificGuestAsync(Guid? guestId, int count)
     {
         return await (from booking in _context.Bookings
                 join room in _context.Rooms on booking.RoomId equals room.Id

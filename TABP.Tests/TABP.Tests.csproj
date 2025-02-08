@@ -16,8 +16,18 @@
     <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.11.0" />
     <PackageReference Include="MediatR" Version="12.4.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+    <PackageReference Include="Moq" Version="4.20.72" />
+    <PackageReference Include="Moq.AutoMock" Version="3.5.0" />
+    <PackageReference Include="Moq.EntityFrameworkCore" Version="9.0.0.1" />
     <PackageReference Include="xunit" Version="2.5.3" />
     <PackageReference Include="xunit.runner.visualstudio" Version="2.5.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TABP.Application\TABP.Application.csproj" />
+    <ProjectReference Include="..\TABP.Domain\TABP.Domain.csproj" />
+    <ProjectReference Include="..\TABP.Hashing\TABP.Hashing.csproj" />
+    <ProjectReference Include="..\TABP.Infrastructure\TABP.Infrastructure.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Using Include="Xunit" />

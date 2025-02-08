@@ -25,9 +25,18 @@ public class BookRoomCommandHandler : IRequestHandler<BookRoomCommand, BookingDt
     public async Task<BookingDto?> Handle(BookRoomCommand request, CancellationToken cancellationToken)
     {
         var bookingToAdd = _mapper.Map<Booking>(request);
-        bookingToAdd.UserId = await _userRepository.GetGuestIdByEmailAsync(request.GuestEmail);
+
+        var guestId = await _userRepository.GetGuestIdByEmailAsync(request.GuestEmail);
+        if (guestId == null)
+        {
+            throw new InvalidOperationException($"Guest email '{request.GuestEmail}' not found.");
+        }
+        bookingToAdd.UserId = guestId.Value;
+
         bookingToAdd.Price = await _roomRepository.GetPriceForRoomWithDiscount(request.RoomId);
+
         var addedBooking = await _bookingRepository.InsertAsync(bookingToAdd);
         return _mapper.Map<BookingDto>(addedBooking);
     }
+
 }

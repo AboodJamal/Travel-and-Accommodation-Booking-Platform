@@ -21,6 +21,11 @@ public class GetCityByIdQueryHandler : IRequestHandler<GetCityByIdQuery, CityDto
     public async Task<CityDto?> Handle(GetCityByIdQuery request, CancellationToken cancellationToken)
     {
         var city = await _cityRepository.GetByIdAsync(request.Id, request.IncludeHotels);
+
+        if (city == null)
+            return null;
+
         return _mapper.Map<CityDto>(city);
     }
+
 }

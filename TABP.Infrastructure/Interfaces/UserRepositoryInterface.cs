@@ -8,8 +8,8 @@ public interface UserRepositoryInterface
     public Task<User?> GetByIdAsync(Guid userId);
     public Task UpdateAsync(User user);
     public Task DeleteAsync(Guid userId);
-    public Task<Guid> GetGuestIdByEmailAsync(string email);
-    public Task<List<Hotel>> GetRecentlyVisitedHotelsForSpecificGuestAsync(Guid guestId, int count);
+    public Task<Guid?> GetGuestIdByEmailAsync(string email);
+    public Task<List<Hotel>> GetRecentlyVisitedHotelsForSpecificGuestAsync(Guid? guestId, int count);
     public Task<List<Hotel>> GetRecentlyVisitedHotelsForSpecificAuthenticatedGuestAsync(string email, int count);
     public Task<List<Booking>> GetBookingsForSpecificAuthenticatedGuestAsync(string email, int count);
     public Task SaveChangesAsync();

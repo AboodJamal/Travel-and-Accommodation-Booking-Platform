@@ -32,6 +32,7 @@ The following diagram illustrates the relationships and structure of the core en
 - **Streamlined Operations**: A user-friendly interface simplifies administrative tasks and system maintenance.
 
 ---
+- **Endpoints in Postman**: [Postman Endpoints link](https://documenter.getpostman.com/view/34134157/2sAYX9kzXm#e5cf3025-cb94-40fd-b65f-cc72e83e3fac)
 
 ## API Endpoints Overview
 

@@ -30,6 +30,19 @@ The following diagram illustrates the relationships and structure of the core en
 ### 5. Admin Control Panel
 - **Full Entity Management**: Admins can add, update, or delete cities, hotels, rooms, and other entities.
 - **Streamlined Operations**: A user-friendly interface simplifies administrative tasks and system maintenance.
+---
+## Project Structure Overview
+
+The following table outlines the responsibilities of each sub-project in the **Travel and Accommodation Booking Platform** solution:
+
+| Project              | Responsibility                                                                 |
+|----------------------|--------------------------------------------------------------------------------|
+| **TABP.API**          | Entry point (controllers, validators)                                            |
+| **TABP.Application**  | Business logic, CQRS (Commands, Queries, Handlers), and DTOs                   |
+| **TABP.Domain**       | Core domain models (Entities, Enums)                                           |
+| **TABP.Infrastructure**| Database, authentication, services (email, images, PDF, repositories)          |
+| **TABP.Hashing**      | Separate project for password security utilities                               |
+| **TABP.Tests**        | Unit and integration tests                                                      |
 
 ---
 - **Endpoints in Postman**: [Postman Endpoints link](https://documenter.getpostman.com/view/34134157/2sAYX9kzXm#e5cf3025-cb94-40fd-b65f-cc72e83e3fac)
